@@ -1,0 +1,26 @@
+# Virtual environment
+cineneuro_env/
+
+# Model cache and weights
+cache/
+*.ckpt
+*.bin
+*.safetensors
+
+# Data files
+*.mp4
+*.wav
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.eggs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
