@@ -1,6 +1,6 @@
 import logging
 
-from fastapi import APIRouter, UploadFile, File, BackgroundTasks
+from fastapi import APIRouter, UploadFile, File, BackgroundTasks, HTTPException
 
 from backend.app.models.schemas import UploadResponse, JobStatus, AnalysisResult
 from backend.app.services.video_ingestion import (
@@ -8,6 +8,14 @@ from backend.app.services.video_ingestion import (
     save_video_locally,
     generate_job_id,
 )
+from backend.app.services.video_preprocessing import preprocess_video
+from backend.app.services.tribe_inference import run_tribe_inference
+from backend.app.services.emotion_mapping import map_brain_to_emotions
+from backend.app.services.scene_intelligence import detect_scenes
+from backend.app.services.persona_simulation import simulate_personas
+from backend.app.services.benchmarking import benchmark_trailer
+from backend.app.services.report_generator import generate_pdf_report
+
 
 logger = logging.getLogger(__name__)
 
@@ -17,28 +25,41 @@ router = APIRouter(prefix="/api/v1", tags=["analysis"])
 jobs: dict[str, dict] = {}
 
 
-async def run_analysis_pipeline(job_id: str, video_path: str) -> None:
-    """Background task that runs the full CineNeuro pipeline."""
+async def run_analysis_pipeline(job_id: str, video_path: str, filename: str) -> None:
     try:
         jobs[job_id]["status"] = JobStatus.PROCESSING
         logger.info(f"Starting analysis for job {job_id}")
 
-        # Step 1: Video preprocessing (Phase 3, Step 3)
-        # Step 2: TRIBE v2 inference (Phase 3, Step 4)
-        # Step 3: Emotion mapping (Phase 3, Step 5)
-        # Step 4: Scene intelligence (Phase 3, Step 6)
-        # Step 5: Persona simulation (Phase 3, Step 7)
-        # Step 6: Competitive benchmarking (Phase 3, Step 8)
-        # Step 7: PDF report generation (Phase 3, Step 9)
+        events_df = preprocess_video(video_path)
+        preds, segments = run_tribe_inference(events_df)
+        timeline = map_brain_to_emotions(preds)
+        top_scenes, weak_scenes = detect_scenes(timeline)
+        personas = simulate_personas(timeline)
+        benchmarks = benchmark_trailer(timeline)
 
-        # Placeholder until we build each service
+        result = AnalysisResult(
+            job_id=job_id,
+            status=JobStatus.COMPLETED,
+            timeline=timeline,
+            top_scenes=top_scenes,
+            weak_scenes=weak_scenes,
+            personas=personas,
+            benchmarks=benchmarks,
+        )
+
+        pdf_path = generate_pdf_report(result, filename)
+        result.pdf_url = f"/reports/{pdf_path.name}"
+
         jobs[job_id]["status"] = JobStatus.COMPLETED
+        jobs[job_id]["result"] = result
         logger.info(f"Analysis completed for job {job_id}")
 
     except Exception as e:
         jobs[job_id]["status"] = JobStatus.FAILED
         jobs[job_id]["error"] = str(e)
         logger.error(f"Analysis failed for job {job_id}: {e}")
+
+
 
 
 @router.post("/analyze", response_model=UploadResponse)
@@ -64,7 +85,7 @@ async def analyze_trailer(
     }
 
     # Launch analysis in background
-    background_tasks.add_task(run_analysis_pipeline, job_id, str(video_path))
+    background_tasks.add_task(run_analysis_pipeline, job_id, str(video_path), file.filename)
 
     return UploadResponse(
         job_id=job_id,
@@ -84,3 +105,12 @@ async def get_job_status(job_id: str):
         "job_id": job_id,
         "status": jobs[job_id]["status"],
     }
+
+@router.get("/result/{job_id}", response_model=AnalysisResult)
+async def get_job_result(job_id: str):
+    if job_id not in jobs:
+        raise HTTPException(status_code=404, detail="Job not found")
+    if jobs[job_id]["status"] != JobStatus.COMPLETED:
+        raise HTTPException(status_code=202, detail=f"Job still {jobs[job_id]['status'].value}")
+    return jobs[job_id]["result"]
+
