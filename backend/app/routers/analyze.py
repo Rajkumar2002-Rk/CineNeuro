@@ -32,7 +32,7 @@ async def run_analysis_pipeline(job_id: str, video_path: str, filename: str) -> 
 
         events_df = preprocess_video(video_path)
         preds, segments = run_tribe_inference(events_df)
-        timeline = map_brain_to_emotions(preds)
+        timeline = map_brain_to_emotions(preds, segments)
         top_scenes, weak_scenes = detect_scenes(timeline)
         personas = simulate_personas(timeline)
         benchmarks = benchmark_trailer(timeline)
