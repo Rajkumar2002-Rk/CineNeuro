@@ -16,6 +16,10 @@ from backend.app.services.persona_simulation import simulate_personas
 from backend.app.services.benchmarking import benchmark_trailer
 from backend.app.services.report_generator import generate_pdf_report
 
+import json
+from pathlib import Path
+
+
 
 logger = logging.getLogger(__name__)
 
@@ -114,3 +118,29 @@ async def get_job_result(job_id: str):
         raise HTTPException(status_code=202, detail=f"Job still {jobs[job_id]['status'].value}")
     return jobs[job_id]["result"]
 
+DEMO_TRAILERS = {
+    "the_odyssey": "The Odyssey (2026) - Action",
+    "hokum": "Hokum (2026) - Horror",
+    "sample_video": "Sample Video - Demo",
+}
+
+RESULTS_DIR = Path(__file__).parent.parent.parent.parent / "data" / "results"
+
+
+@router.get("/demos")
+async def list_demos():
+    return [
+        {"id": name, "title": title}
+        for name, title in DEMO_TRAILERS.items()
+    ]
+
+
+@router.get("/demo/{trailer_name}")
+async def get_demo_result(trailer_name: str):
+    if trailer_name not in DEMO_TRAILERS:
+        raise HTTPException(status_code=404, detail="Demo not found")
+    json_path = RESULTS_DIR / f"{trailer_name}_result.json"
+    if not json_path.exists():
+        raise HTTPException(status_code=404, detail="Result file not found")
+    with open(json_path) as f:
+        return json.load(f)

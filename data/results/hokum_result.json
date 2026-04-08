@@ -1,0 +1,6102 @@
+{
+  "job_id": "5e827f34-b055-4ec2-9bd7-690556d54425",
+  "status": "completed",
+  "timeline": [
+    {
+      "second": 1,
+      "excitement": 0.2956,
+      "fear": 0.2941,
+      "joy": 0.2979,
+      "suspense": 0.2952,
+      "boredom": 0.6582
+    },
+    {
+      "second": 2,
+      "excitement": 0.3019,
+      "fear": 0.3009,
+      "joy": 0.3019,
+      "suspense": 0.3022,
+      "boredom": 0.6354
+    },
+    {
+      "second": 3,
+      "excitement": 0.3213,
+      "fear": 0.3209,
+      "joy": 0.3198,
+      "suspense": 0.3217,
+      "boredom": 0.6088
+    },
+    {
+      "second": 4,
+      "excitement": 0.3239,
+      "fear": 0.3231,
+      "joy": 0.3228,
+      "suspense": 0.324,
+      "boredom": 0.6069
+    },
+    {
+      "second": 5,
+      "excitement": 0.2817,
+      "fear": 0.2803,
+      "joy": 0.2826,
+      "suspense": 0.2827,
+      "boredom": 0.6506
+    },
+    {
+      "second": 6,
+      "excitement": 0.2782,
+      "fear": 0.2767,
+      "joy": 0.28,
+      "suspense": 0.2799,
+      "boredom": 0.6532
+    },
+    {
+      "second": 7,
+      "excitement": 0.285,
+      "fear": 0.2835,
+      "joy": 0.288,
+      "suspense": 0.2879,
+      "boredom": 0.645
+    },
+    {
+      "second": 8,
+      "excitement": 0.3375,
+      "fear": 0.3356,
+      "joy": 0.3428,
+      "suspense": 0.3414,
+      "boredom": 0.6064
+    },
+    {
+      "second": 9,
+      "excitement": 0.3699,
+      "fear": 0.3673,
+      "joy": 0.3782,
+      "suspense": 0.3746,
+      "boredom": 0.5958
+    },
+    {
+      "second": 10,
+      "excitement": 0.4203,
+      "fear": 0.417,
+      "joy": 0.4322,
+      "suspense": 0.4259,
+      "boredom": 0.5703
+    },
+    {
+      "second": 11,
+      "excitement": 0.4841,
+      "fear": 0.4805,
+      "joy": 0.4973,
+      "suspense": 0.4902,
+      "boredom": 0.5223
+    },
+    {
+      "second": 12,
+      "excitement": 0.5177,
+      "fear": 0.5145,
+      "joy": 0.5295,
+      "suspense": 0.5232,
+      "boredom": 0.4875
+    },
+    {
+      "second": 13,
+      "excitement": 0.5206,
+      "fear": 0.5182,
+      "joy": 0.5288,
+      "suspense": 0.5246,
+      "boredom": 0.4697
+    },
+    {
+      "second": 14,
+      "excitement": 0.5195,
+      "fear": 0.5186,
+      "joy": 0.5231,
+      "suspense": 0.522,
+      "boredom": 0.4459
+    },
+    {
+      "second": 15,
+      "excitement": 0.5416,
+      "fear": 0.5407,
+      "joy": 0.5448,
+      "suspense": 0.543,
+      "boredom": 0.4197
+    },
+    {
+      "second": 16,
+      "excitement": 0.584,
+      "fear": 0.5831,
+      "joy": 0.5871,
+      "suspense": 0.5851,
+      "boredom": 0.3793
+    },
+    {
+      "second": 17,
+      "excitement": 0.6493,
+      "fear": 0.6479,
+      "joy": 0.653,
+      "suspense": 0.6503,
+      "boredom": 0.3188
+    },
+    {
+      "second": 18,
+      "excitement": 0.7035,
+      "fear": 0.7025,
+      "joy": 0.706,
+      "suspense": 0.7038,
+      "boredom": 0.2648
+    },
+    {
+      "second": 19,
+      "excitement": 0.7785,
+      "fear": 0.7764,
+      "joy": 0.7839,
+      "suspense": 0.7794,
+      "boredom": 0.2086
+    },
+    {
+      "second": 20,
+      "excitement": 0.8124,
+      "fear": 0.8101,
+      "joy": 0.8174,
+      "suspense": 0.8126,
+      "boredom": 0.1794
+    },
+    {
+      "second": 21,
+      "excitement": 0.865,
+      "fear": 0.8619,
+      "joy": 0.8723,
+      "suspense": 0.8654,
+      "boredom": 0.1452
+    },
+    {
+      "second": 22,
+      "excitement": 0.8943,
+      "fear": 0.8926,
+      "joy": 0.8969,
+      "suspense": 0.8933,
+      "boredom": 0.0967
+    },
+    {
+      "second": 23,
+      "excitement": 0.9364,
+      "fear": 0.937,
+      "joy": 0.9328,
+      "suspense": 0.9347,
+      "boredom": 0.0262
+    },
+    {
+      "second": 24,
+      "excitement": 1.0,
+      "fear": 1.0,
+      "joy": 1.0,
+      "suspense": 1.0,
+      "boredom": 0.0
+    },
+    {
+      "second": 25,
+      "excitement": 0.8868,
+      "fear": 0.8879,
+      "joy": 0.8843,
+      "suspense": 0.8865,
+      "boredom": 0.0836
+    },
+    {
+      "second": 26,
+      "excitement": 0.8771,
+      "fear": 0.8801,
+      "joy": 0.8697,
+      "suspense": 0.877,
+      "boredom": 0.0624
+    },
+    {
+      "second": 27,
+      "excitement": 0.8356,
+      "fear": 0.8384,
+      "joy": 0.8298,
+      "suspense": 0.8368,
+      "boredom": 0.1057
+    },
+    {
+      "second": 28,
+      "excitement": 0.8106,
+      "fear": 0.8137,
+      "joy": 0.8036,
+      "suspense": 0.812,
+      "boredom": 0.1177
+    },
+    {
+      "second": 29,
+      "excitement": 0.8148,
+      "fear": 0.8171,
+      "joy": 0.8099,
+      "suspense": 0.8157,
+      "boredom": 0.1237
+    },
+    {
+      "second": 30,
+      "excitement": 0.814,
+      "fear": 0.8156,
+      "joy": 0.8115,
+      "suspense": 0.8161,
+      "boredom": 0.13
+    },
+    {
+      "second": 31,
+      "excitement": 0.8367,
+      "fear": 0.8388,
+      "joy": 0.8315,
+      "suspense": 0.8381,
+      "boredom": 0.0949
+    },
+    {
+      "second": 32,
+      "excitement": 0.8152,
+      "fear": 0.8161,
+      "joy": 0.8134,
+      "suspense": 0.8173,
+      "boredom": 0.1278
+    },
+    {
+      "second": 33,
+      "excitement": 0.7967,
+      "fear": 0.7971,
+      "joy": 0.796,
+      "suspense": 0.7989,
+      "boredom": 0.1531
+    },
+    {
+      "second": 34,
+      "excitement": 0.7922,
+      "fear": 0.7921,
+      "joy": 0.7931,
+      "suspense": 0.7943,
+      "boredom": 0.1712
+    },
+    {
+      "second": 35,
+      "excitement": 0.8221,
+      "fear": 0.8241,
+      "joy": 0.8165,
+      "suspense": 0.8217,
+      "boredom": 0.1253
+    },
+    {
+      "second": 36,
+      "excitement": 0.8543,
+      "fear": 0.8587,
+      "joy": 0.841,
+      "suspense": 0.8515,
+      "boredom": 0.06
+    },
+    {
+      "second": 37,
+      "excitement": 0.8341,
+      "fear": 0.8414,
+      "joy": 0.8129,
+      "suspense": 0.8295,
+      "boredom": 0.0409
+    },
+    {
+      "second": 38,
+      "excitement": 0.7828,
+      "fear": 0.7931,
+      "joy": 0.7515,
+      "suspense": 0.7752,
+      "boredom": 0.0345
+    },
+    {
+      "second": 39,
+      "excitement": 0.7289,
+      "fear": 0.7392,
+      "joy": 0.6978,
+      "suspense": 0.7214,
+      "boredom": 0.0872
+    },
+    {
+      "second": 40,
+      "excitement": 0.6616,
+      "fear": 0.6729,
+      "joy": 0.6258,
+      "suspense": 0.653,
+      "boredom": 0.1258
+    },
+    {
+      "second": 41,
+      "excitement": 0.6879,
+      "fear": 0.6982,
+      "joy": 0.6537,
+      "suspense": 0.6798,
+      "boredom": 0.11
+    },
+    {
+      "second": 42,
+      "excitement": 0.6896,
+      "fear": 0.699,
+      "joy": 0.6573,
+      "suspense": 0.6813,
+      "boredom": 0.1209
+    },
+    {
+      "second": 43,
+      "excitement": 0.7627,
+      "fear": 0.7701,
+      "joy": 0.7372,
+      "suspense": 0.7559,
+      "boredom": 0.0927
+    },
+    {
+      "second": 44,
+      "excitement": 0.7891,
+      "fear": 0.7965,
+      "joy": 0.7635,
+      "suspense": 0.7821,
+      "boredom": 0.076
+    },
+    {
+      "second": 45,
+      "excitement": 0.7801,
+      "fear": 0.7871,
+      "joy": 0.7558,
+      "suspense": 0.7732,
+      "boredom": 0.0934
+    },
+    {
+      "second": 46,
+      "excitement": 0.806,
+      "fear": 0.8158,
+      "joy": 0.7736,
+      "suspense": 0.7982,
+      "boredom": 0.0255
+    },
+    {
+      "second": 47,
+      "excitement": 0.7286,
+      "fear": 0.7369,
+      "joy": 0.7021,
+      "suspense": 0.7227,
+      "boredom": 0.1199
+    },
+    {
+      "second": 48,
+      "excitement": 0.6877,
+      "fear": 0.6962,
+      "joy": 0.661,
+      "suspense": 0.6828,
+      "boredom": 0.1511
+    },
+    {
+      "second": 49,
+      "excitement": 0.6916,
+      "fear": 0.7009,
+      "joy": 0.6636,
+      "suspense": 0.6877,
+      "boredom": 0.1383
+    },
+    {
+      "second": 50,
+      "excitement": 0.6963,
+      "fear": 0.7023,
+      "joy": 0.6792,
+      "suspense": 0.6945,
+      "boredom": 0.1911
+    },
+    {
+      "second": 51,
+      "excitement": 0.7319,
+      "fear": 0.7343,
+      "joy": 0.7268,
+      "suspense": 0.7336,
+      "boredom": 0.2193
+    },
+    {
+      "second": 52,
+      "excitement": 0.7496,
+      "fear": 0.7491,
+      "joy": 0.7541,
+      "suspense": 0.7545,
+      "boredom": 0.2524
+    },
+    {
+      "second": 53,
+      "excitement": 0.7869,
+      "fear": 0.7834,
+      "joy": 0.8005,
+      "suspense": 0.7941,
+      "boredom": 0.2685
+    },
+    {
+      "second": 54,
+      "excitement": 0.6999,
+      "fear": 0.696,
+      "joy": 0.7131,
+      "suspense": 0.7053,
+      "boredom": 0.351
+    },
+    {
+      "second": 55,
+      "excitement": 0.6263,
+      "fear": 0.6212,
+      "joy": 0.6423,
+      "suspense": 0.6311,
+      "boredom": 0.4372
+    },
+    {
+      "second": 56,
+      "excitement": 0.5974,
+      "fear": 0.5935,
+      "joy": 0.609,
+      "suspense": 0.6004,
+      "boredom": 0.4461
+    },
+    {
+      "second": 57,
+      "excitement": 0.5536,
+      "fear": 0.5526,
+      "joy": 0.5563,
+      "suspense": 0.5535,
+      "boredom": 0.4442
+    },
+    {
+      "second": 58,
+      "excitement": 0.537,
+      "fear": 0.5382,
+      "joy": 0.5327,
+      "suspense": 0.5358,
+      "boredom": 0.4183
+    },
+    {
+      "second": 59,
+      "excitement": 0.4394,
+      "fear": 0.4409,
+      "joy": 0.4355,
+      "suspense": 0.4393,
+      "boredom": 0.5072
+    },
+    {
+      "second": 60,
+      "excitement": 0.3765,
+      "fear": 0.377,
+      "joy": 0.3749,
+      "suspense": 0.3786,
+      "boredom": 0.5633
+    },
+    {
+      "second": 61,
+      "excitement": 0.2837,
+      "fear": 0.2839,
+      "joy": 0.2805,
+      "suspense": 0.2845,
+      "boredom": 0.6447
+    },
+    {
+      "second": 62,
+      "excitement": 0.288,
+      "fear": 0.2873,
+      "joy": 0.2873,
+      "suspense": 0.2895,
+      "boredom": 0.6515
+    },
+    {
+      "second": 63,
+      "excitement": 0.2702,
+      "fear": 0.2688,
+      "joy": 0.2713,
+      "suspense": 0.2716,
+      "boredom": 0.6813
+    },
+    {
+      "second": 64,
+      "excitement": 0.2643,
+      "fear": 0.2653,
+      "joy": 0.2567,
+      "suspense": 0.2625,
+      "boredom": 0.6478
+    },
+    {
+      "second": 65,
+      "excitement": 0.2389,
+      "fear": 0.2412,
+      "joy": 0.2279,
+      "suspense": 0.2367,
+      "boredom": 0.6479
+    },
+    {
+      "second": 66,
+      "excitement": 0.197,
+      "fear": 0.1987,
+      "joy": 0.1884,
+      "suspense": 0.1959,
+      "boredom": 0.6952
+    },
+    {
+      "second": 67,
+      "excitement": 0.1738,
+      "fear": 0.1752,
+      "joy": 0.1659,
+      "suspense": 0.1728,
+      "boredom": 0.72
+    },
+    {
+      "second": 68,
+      "excitement": 0.1733,
+      "fear": 0.1741,
+      "joy": 0.1672,
+      "suspense": 0.1728,
+      "boredom": 0.7252
+    },
+    {
+      "second": 69,
+      "excitement": 0.1744,
+      "fear": 0.1747,
+      "joy": 0.1698,
+      "suspense": 0.174,
+      "boredom": 0.7325
+    },
+    {
+      "second": 70,
+      "excitement": 0.1964,
+      "fear": 0.1952,
+      "joy": 0.1974,
+      "suspense": 0.1975,
+      "boredom": 0.7415
+    },
+    {
+      "second": 71,
+      "excitement": 0.2267,
+      "fear": 0.2252,
+      "joy": 0.2291,
+      "suspense": 0.2288,
+      "boredom": 0.7174
+    },
+    {
+      "second": 72,
+      "excitement": 0.2519,
+      "fear": 0.2511,
+      "joy": 0.2517,
+      "suspense": 0.2539,
+      "boredom": 0.6734
+    },
+    {
+      "second": 73,
+      "excitement": 0.2433,
+      "fear": 0.2428,
+      "joy": 0.2423,
+      "suspense": 0.2457,
+      "boredom": 0.6704
+    },
+    {
+      "second": 74,
+      "excitement": 0.2262,
+      "fear": 0.2265,
+      "joy": 0.2224,
+      "suspense": 0.2283,
+      "boredom": 0.6646
+    },
+    {
+      "second": 75,
+      "excitement": 0.2265,
+      "fear": 0.2281,
+      "joy": 0.2176,
+      "suspense": 0.2269,
+      "boredom": 0.6331
+    },
+    {
+      "second": 76,
+      "excitement": 0.2438,
+      "fear": 0.2448,
+      "joy": 0.236,
+      "suspense": 0.2444,
+      "boredom": 0.6186
+    },
+    {
+      "second": 77,
+      "excitement": 0.2726,
+      "fear": 0.2733,
+      "joy": 0.266,
+      "suspense": 0.2734,
+      "boredom": 0.5971
+    },
+    {
+      "second": 78,
+      "excitement": 0.3318,
+      "fear": 0.3321,
+      "joy": 0.3261,
+      "suspense": 0.3325,
+      "boredom": 0.5485
+    },
+    {
+      "second": 79,
+      "excitement": 0.3464,
+      "fear": 0.3463,
+      "joy": 0.3425,
+      "suspense": 0.3479,
+      "boredom": 0.5473
+    },
+    {
+      "second": 80,
+      "excitement": 0.3966,
+      "fear": 0.3962,
+      "joy": 0.3927,
+      "suspense": 0.3978,
+      "boredom": 0.5031
+    },
+    {
+      "second": 81,
+      "excitement": 0.4221,
+      "fear": 0.4226,
+      "joy": 0.4159,
+      "suspense": 0.4231,
+      "boredom": 0.4707
+    },
+    {
+      "second": 82,
+      "excitement": 0.4465,
+      "fear": 0.4462,
+      "joy": 0.4443,
+      "suspense": 0.4486,
+      "boredom": 0.4707
+    },
+    {
+      "second": 83,
+      "excitement": 0.4664,
+      "fear": 0.4658,
+      "joy": 0.4659,
+      "suspense": 0.4694,
+      "boredom": 0.4632
+    },
+    {
+      "second": 84,
+      "excitement": 0.4356,
+      "fear": 0.4365,
+      "joy": 0.4319,
+      "suspense": 0.4384,
+      "boredom": 0.473
+    },
+    {
+      "second": 85,
+      "excitement": 0.3996,
+      "fear": 0.4001,
+      "joy": 0.3982,
+      "suspense": 0.4033,
+      "boredom": 0.5179
+    },
+    {
+      "second": 86,
+      "excitement": 0.4118,
+      "fear": 0.4117,
+      "joy": 0.4126,
+      "suspense": 0.4159,
+      "boredom": 0.5213
+    },
+    {
+      "second": 87,
+      "excitement": 0.4462,
+      "fear": 0.4464,
+      "joy": 0.4472,
+      "suspense": 0.4498,
+      "boredom": 0.4933
+    },
+    {
+      "second": 88,
+      "excitement": 0.4516,
+      "fear": 0.4521,
+      "joy": 0.4512,
+      "suspense": 0.4543,
+      "boredom": 0.4829
+    },
+    {
+      "second": 89,
+      "excitement": 0.4684,
+      "fear": 0.468,
+      "joy": 0.4714,
+      "suspense": 0.4724,
+      "boredom": 0.4777
+    },
+    {
+      "second": 90,
+      "excitement": 0.4478,
+      "fear": 0.4473,
+      "joy": 0.451,
+      "suspense": 0.4522,
+      "boredom": 0.4956
+    },
+    {
+      "second": 91,
+      "excitement": 0.4385,
+      "fear": 0.4386,
+      "joy": 0.4394,
+      "suspense": 0.4416,
+      "boredom": 0.4926
+    },
+    {
+      "second": 92,
+      "excitement": 0.443,
+      "fear": 0.4433,
+      "joy": 0.4425,
+      "suspense": 0.4457,
+      "boredom": 0.4808
+    },
+    {
+      "second": 93,
+      "excitement": 0.4632,
+      "fear": 0.4633,
+      "joy": 0.4639,
+      "suspense": 0.4662,
+      "boredom": 0.47
+    },
+    {
+      "second": 94,
+      "excitement": 0.4871,
+      "fear": 0.4864,
+      "joy": 0.4915,
+      "suspense": 0.4913,
+      "boredom": 0.4682
+    },
+    {
+      "second": 95,
+      "excitement": 0.5053,
+      "fear": 0.5055,
+      "joy": 0.5059,
+      "suspense": 0.5088,
+      "boredom": 0.4351
+    },
+    {
+      "second": 96,
+      "excitement": 0.5368,
+      "fear": 0.5364,
+      "joy": 0.539,
+      "suspense": 0.5402,
+      "boredom": 0.4126
+    },
+    {
+      "second": 97,
+      "excitement": 0.551,
+      "fear": 0.5515,
+      "joy": 0.5509,
+      "suspense": 0.5543,
+      "boredom": 0.3904
+    },
+    {
+      "second": 98,
+      "excitement": 0.5956,
+      "fear": 0.5953,
+      "joy": 0.5975,
+      "suspense": 0.5989,
+      "boredom": 0.3644
+    },
+    {
+      "second": 99,
+      "excitement": 0.6139,
+      "fear": 0.6131,
+      "joy": 0.6171,
+      "suspense": 0.6175,
+      "boredom": 0.3553
+    },
+    {
+      "second": 100,
+      "excitement": 0.6016,
+      "fear": 0.601,
+      "joy": 0.6043,
+      "suspense": 0.6051,
+      "boredom": 0.3639
+    },
+    {
+      "second": 101,
+      "excitement": 0.6153,
+      "fear": 0.6095,
+      "joy": 0.6323,
+      "suspense": 0.6224,
+      "boredom": 0.4214
+    },
+    {
+      "second": 102,
+      "excitement": 0.5637,
+      "fear": 0.5559,
+      "joy": 0.5882,
+      "suspense": 0.5733,
+      "boredom": 0.5103
+    },
+    {
+      "second": 103,
+      "excitement": 0.5039,
+      "fear": 0.4956,
+      "joy": 0.5331,
+      "suspense": 0.5155,
+      "boredom": 0.5972
+    },
+    {
+      "second": 104,
+      "excitement": 0.4771,
+      "fear": 0.4687,
+      "joy": 0.507,
+      "suspense": 0.4883,
+      "boredom": 0.632
+    },
+    {
+      "second": 105,
+      "excitement": 0.3926,
+      "fear": 0.3852,
+      "joy": 0.4191,
+      "suspense": 0.4023,
+      "boredom": 0.699
+    },
+    {
+      "second": 106,
+      "excitement": 0.3006,
+      "fear": 0.2942,
+      "joy": 0.3228,
+      "suspense": 0.3081,
+      "boredom": 0.7674
+    },
+    {
+      "second": 107,
+      "excitement": 0.2413,
+      "fear": 0.2352,
+      "joy": 0.2615,
+      "suspense": 0.2475,
+      "boredom": 0.815
+    },
+    {
+      "second": 108,
+      "excitement": 0.1966,
+      "fear": 0.1907,
+      "joy": 0.2159,
+      "suspense": 0.2028,
+      "boredom": 0.8509
+    },
+    {
+      "second": 109,
+      "excitement": 0.1471,
+      "fear": 0.1419,
+      "joy": 0.165,
+      "suspense": 0.1537,
+      "boredom": 0.8788
+    },
+    {
+      "second": 110,
+      "excitement": 0.0589,
+      "fear": 0.0546,
+      "joy": 0.0742,
+      "suspense": 0.0647,
+      "boredom": 0.9496
+    },
+    {
+      "second": 111,
+      "excitement": 0.0159,
+      "fear": 0.0111,
+      "joy": 0.033,
+      "suspense": 0.0222,
+      "boredom": 1.0
+    },
+    {
+      "second": 112,
+      "excitement": 0.01,
+      "fear": 0.0072,
+      "joy": 0.0194,
+      "suspense": 0.0135,
+      "boredom": 0.9687
+    },
+    {
+      "second": 113,
+      "excitement": 0.0,
+      "fear": 0.0,
+      "joy": 0.0,
+      "suspense": 0.0,
+      "boredom": 0.9333
+    },
+    {
+      "second": 114,
+      "excitement": 0.0639,
+      "fear": 0.0672,
+      "joy": 0.0538,
+      "suspense": 0.0626,
+      "boredom": 0.8324
+    },
+    {
+      "second": 115,
+      "excitement": 0.1039,
+      "fear": 0.1099,
+      "joy": 0.0855,
+      "suspense": 0.1024,
+      "boredom": 0.7613
+    },
+    {
+      "second": 116,
+      "excitement": 0.0286,
+      "fear": 0.0347,
+      "joy": 0.0085,
+      "suspense": 0.0269,
+      "boredom": 0.7919
+    },
+    {
+      "second": 117,
+      "excitement": 0.1172,
+      "fear": 0.1236,
+      "joy": 0.0976,
+      "suspense": 0.1156,
+      "boredom": 0.7441
+    },
+    {
+      "second": 118,
+      "excitement": 0.0626,
+      "fear": 0.0712,
+      "joy": 0.034,
+      "suspense": 0.059,
+      "boredom": 0.7203
+    },
+    {
+      "second": 119,
+      "excitement": 0.0894,
+      "fear": 0.0954,
+      "joy": 0.0694,
+      "suspense": 0.0889,
+      "boredom": 0.7393
+    },
+    {
+      "second": 120,
+      "excitement": 0.1151,
+      "fear": 0.1236,
+      "joy": 0.0866,
+      "suspense": 0.111,
+      "boredom": 0.6574
+    },
+    {
+      "second": 121,
+      "excitement": 0.1897,
+      "fear": 0.1993,
+      "joy": 0.1571,
+      "suspense": 0.1852,
+      "boredom": 0.5847
+    },
+    {
+      "second": 122,
+      "excitement": 0.1969,
+      "fear": 0.2048,
+      "joy": 0.17,
+      "suspense": 0.1936,
+      "boredom": 0.5885
+    },
+    {
+      "second": 123,
+      "excitement": 0.2501,
+      "fear": 0.2568,
+      "joy": 0.2288,
+      "suspense": 0.2491,
+      "boredom": 0.5794
+    },
+    {
+      "second": 124,
+      "excitement": 0.2376,
+      "fear": 0.2438,
+      "joy": 0.2168,
+      "suspense": 0.2353,
+      "boredom": 0.5882
+    },
+    {
+      "second": 125,
+      "excitement": 0.2737,
+      "fear": 0.2792,
+      "joy": 0.2553,
+      "suspense": 0.2719,
+      "boredom": 0.5656
+    },
+    {
+      "second": 126,
+      "excitement": 0.2961,
+      "fear": 0.3007,
+      "joy": 0.2808,
+      "suspense": 0.2954,
+      "boredom": 0.5702
+    },
+    {
+      "second": 127,
+      "excitement": 0.3672,
+      "fear": 0.3713,
+      "joy": 0.3536,
+      "suspense": 0.3656,
+      "boredom": 0.5128
+    },
+    {
+      "second": 128,
+      "excitement": 0.3705,
+      "fear": 0.3745,
+      "joy": 0.3557,
+      "suspense": 0.3682,
+      "boredom": 0.4941
+    },
+    {
+      "second": 129,
+      "excitement": 0.3631,
+      "fear": 0.3681,
+      "joy": 0.3461,
+      "suspense": 0.3616,
+      "boredom": 0.4915
+    },
+    {
+      "second": 130,
+      "excitement": 0.3865,
+      "fear": 0.3918,
+      "joy": 0.3686,
+      "suspense": 0.3842,
+      "boredom": 0.4727
+    },
+    {
+      "second": 131,
+      "excitement": 0.4182,
+      "fear": 0.4235,
+      "joy": 0.4014,
+      "suspense": 0.4164,
+      "boredom": 0.4626
+    },
+    {
+      "second": 132,
+      "excitement": 0.4202,
+      "fear": 0.4276,
+      "joy": 0.3952,
+      "suspense": 0.4153,
+      "boredom": 0.4052
+    },
+    {
+      "second": 133,
+      "excitement": 0.4802,
+      "fear": 0.4876,
+      "joy": 0.4554,
+      "suspense": 0.4762,
+      "boredom": 0.359
+    },
+    {
+      "second": 134,
+      "excitement": 0.4376,
+      "fear": 0.4451,
+      "joy": 0.4137,
+      "suspense": 0.4349,
+      "boredom": 0.4001
+    },
+    {
+      "second": 135,
+      "excitement": 0.4351,
+      "fear": 0.4395,
+      "joy": 0.4206,
+      "suspense": 0.4349,
+      "boredom": 0.4399
+    },
+    {
+      "second": 136,
+      "excitement": 0.4383,
+      "fear": 0.4446,
+      "joy": 0.4189,
+      "suspense": 0.4357,
+      "boredom": 0.4169
+    },
+    {
+      "second": 137,
+      "excitement": 0.4428,
+      "fear": 0.4494,
+      "joy": 0.4215,
+      "suspense": 0.44,
+      "boredom": 0.4109
+    },
+    {
+      "second": 138,
+      "excitement": 0.4708,
+      "fear": 0.4765,
+      "joy": 0.452,
+      "suspense": 0.4682,
+      "boredom": 0.388
+    },
+    {
+      "second": 139,
+      "excitement": 0.4968,
+      "fear": 0.504,
+      "joy": 0.4735,
+      "suspense": 0.4934,
+      "boredom": 0.3476
+    },
+    {
+      "second": 140,
+      "excitement": 0.4557,
+      "fear": 0.4619,
+      "joy": 0.4353,
+      "suspense": 0.4524,
+      "boredom": 0.3856
+    },
+    {
+      "second": 141,
+      "excitement": 0.4795,
+      "fear": 0.4869,
+      "joy": 0.4548,
+      "suspense": 0.4756,
+      "boredom": 0.3508
+    },
+    {
+      "second": 142,
+      "excitement": 0.4695,
+      "fear": 0.4754,
+      "joy": 0.4502,
+      "suspense": 0.4662,
+      "boredom": 0.3805
+    },
+    {
+      "second": 143,
+      "excitement": 0.5225,
+      "fear": 0.5301,
+      "joy": 0.4979,
+      "suspense": 0.5187,
+      "boredom": 0.3088
+    },
+    {
+      "second": 144,
+      "excitement": 0.5967,
+      "fear": 0.6029,
+      "joy": 0.5779,
+      "suspense": 0.5956,
+      "boredom": 0.2664
+    },
+    {
+      "second": 145,
+      "excitement": 0.5175,
+      "fear": 0.5265,
+      "joy": 0.4882,
+      "suspense": 0.5124,
+      "boredom": 0.2921
+    },
+    {
+      "second": 146,
+      "excitement": 0.5337,
+      "fear": 0.5388,
+      "joy": 0.5179,
+      "suspense": 0.5335,
+      "boredom": 0.3325
+    },
+    {
+      "second": 147,
+      "excitement": 0.5473,
+      "fear": 0.5519,
+      "joy": 0.5338,
+      "suspense": 0.5479,
+      "boredom": 0.3342
+    },
+    {
+      "second": 148,
+      "excitement": 0.548,
+      "fear": 0.5519,
+      "joy": 0.5364,
+      "suspense": 0.5491,
+      "boredom": 0.3463
+    },
+    {
+      "second": 149,
+      "excitement": 0.5553,
+      "fear": 0.5586,
+      "joy": 0.545,
+      "suspense": 0.557,
+      "boredom": 0.3435
+    },
+    {
+      "second": 150,
+      "excitement": 0.5243,
+      "fear": 0.5259,
+      "joy": 0.5193,
+      "suspense": 0.5266,
+      "boredom": 0.3972
+    },
+    {
+      "second": 151,
+      "excitement": 0.5427,
+      "fear": 0.5444,
+      "joy": 0.5389,
+      "suspense": 0.546,
+      "boredom": 0.3925
+    },
+    {
+      "second": 152,
+      "excitement": 0.5602,
+      "fear": 0.564,
+      "joy": 0.5469,
+      "suspense": 0.5594,
+      "boredom": 0.3345
+    },
+    {
+      "second": 153,
+      "excitement": 0.5636,
+      "fear": 0.5689,
+      "joy": 0.5468,
+      "suspense": 0.5626,
+      "boredom": 0.3117
+    },
+    {
+      "second": 154,
+      "excitement": 0.5924,
+      "fear": 0.5991,
+      "joy": 0.5695,
+      "suspense": 0.5887,
+      "boredom": 0.2661
+    },
+    {
+      "second": 155,
+      "excitement": 0.6172,
+      "fear": 0.6239,
+      "joy": 0.5951,
+      "suspense": 0.6138,
+      "boredom": 0.2391
+    },
+    {
+      "second": 156,
+      "excitement": 0.5778,
+      "fear": 0.5819,
+      "joy": 0.5644,
+      "suspense": 0.5775,
+      "boredom": 0.3157
+    },
+    {
+      "second": 157,
+      "excitement": 0.5683,
+      "fear": 0.5721,
+      "joy": 0.557,
+      "suspense": 0.568,
+      "boredom": 0.3341
+    },
+    {
+      "second": 158,
+      "excitement": 0.5823,
+      "fear": 0.585,
+      "joy": 0.5737,
+      "suspense": 0.5822,
+      "boredom": 0.3315
+    },
+    {
+      "second": 159,
+      "excitement": 0.5365,
+      "fear": 0.5391,
+      "joy": 0.5279,
+      "suspense": 0.5359,
+      "boredom": 0.3717
+    },
+    {
+      "second": 160,
+      "excitement": 0.526,
+      "fear": 0.5294,
+      "joy": 0.5147,
+      "suspense": 0.5252,
+      "boredom": 0.3679
+    },
+    {
+      "second": 161,
+      "excitement": 0.5016,
+      "fear": 0.5045,
+      "joy": 0.4921,
+      "suspense": 0.5022,
+      "boredom": 0.3944
+    },
+    {
+      "second": 162,
+      "excitement": 0.5388,
+      "fear": 0.5421,
+      "joy": 0.5288,
+      "suspense": 0.5394,
+      "boredom": 0.3697
+    },
+    {
+      "second": 163,
+      "excitement": 0.5331,
+      "fear": 0.5353,
+      "joy": 0.5266,
+      "suspense": 0.5349,
+      "boredom": 0.3935
+    },
+    {
+      "second": 164,
+      "excitement": 0.5173,
+      "fear": 0.5218,
+      "joy": 0.5027,
+      "suspense": 0.5159,
+      "boredom": 0.3662
+    },
+    {
+      "second": 165,
+      "excitement": 0.5249,
+      "fear": 0.5311,
+      "joy": 0.5051,
+      "suspense": 0.5227,
+      "boredom": 0.352
+    },
+    {
+      "second": 166,
+      "excitement": 0.549,
+      "fear": 0.5547,
+      "joy": 0.5327,
+      "suspense": 0.5493,
+      "boredom": 0.3293
+    },
+    {
+      "second": 167,
+      "excitement": 0.5226,
+      "fear": 0.5289,
+      "joy": 0.5036,
+      "suspense": 0.522,
+      "boredom": 0.3464
+    },
+    {
+      "second": 168,
+      "excitement": 0.4947,
+      "fear": 0.5001,
+      "joy": 0.48,
+      "suspense": 0.4965,
+      "boredom": 0.3881
+    },
+    {
+      "second": 169,
+      "excitement": 0.5217,
+      "fear": 0.5281,
+      "joy": 0.5037,
+      "suspense": 0.5231,
+      "boredom": 0.3447
+    },
+    {
+      "second": 170,
+      "excitement": 0.5173,
+      "fear": 0.524,
+      "joy": 0.4979,
+      "suspense": 0.5176,
+      "boredom": 0.3498
+    },
+    {
+      "second": 171,
+      "excitement": 0.4318,
+      "fear": 0.4395,
+      "joy": 0.4084,
+      "suspense": 0.4306,
+      "boredom": 0.3891
+    },
+    {
+      "second": 172,
+      "excitement": 0.4911,
+      "fear": 0.4992,
+      "joy": 0.4655,
+      "suspense": 0.4896,
+      "boredom": 0.3244
+    },
+    {
+      "second": 173,
+      "excitement": 0.4996,
+      "fear": 0.5062,
+      "joy": 0.4798,
+      "suspense": 0.4998,
+      "boredom": 0.352
+    },
+    {
+      "second": 174,
+      "excitement": 0.4956,
+      "fear": 0.5022,
+      "joy": 0.4757,
+      "suspense": 0.4961,
+      "boredom": 0.3545
+    },
+    {
+      "second": 175,
+      "excitement": 0.4854,
+      "fear": 0.4884,
+      "joy": 0.4769,
+      "suspense": 0.4866,
+      "boredom": 0.4175
+    },
+    {
+      "second": 176,
+      "excitement": 0.4225,
+      "fear": 0.4262,
+      "joy": 0.4113,
+      "suspense": 0.4227,
+      "boredom": 0.4566
+    },
+    {
+      "second": 177,
+      "excitement": 0.4718,
+      "fear": 0.4744,
+      "joy": 0.4653,
+      "suspense": 0.4733,
+      "boredom": 0.4412
+    },
+    {
+      "second": 178,
+      "excitement": 0.4569,
+      "fear": 0.4586,
+      "joy": 0.4521,
+      "suspense": 0.4579,
+      "boredom": 0.4635
+    },
+    {
+      "second": 179,
+      "excitement": 0.4565,
+      "fear": 0.4579,
+      "joy": 0.454,
+      "suspense": 0.4585,
+      "boredom": 0.4795
+    },
+    {
+      "second": 180,
+      "excitement": 0.4269,
+      "fear": 0.4293,
+      "joy": 0.4197,
+      "suspense": 0.4275,
+      "boredom": 0.4849
+    },
+    {
+      "second": 181,
+      "excitement": 0.4778,
+      "fear": 0.4804,
+      "joy": 0.4698,
+      "suspense": 0.4777,
+      "boredom": 0.4519
+    },
+    {
+      "second": 182,
+      "excitement": 0.4406,
+      "fear": 0.4417,
+      "joy": 0.4388,
+      "suspense": 0.4431,
+      "boredom": 0.5085
+    },
+    {
+      "second": 183,
+      "excitement": 0.4571,
+      "fear": 0.4578,
+      "joy": 0.4558,
+      "suspense": 0.4585,
+      "boredom": 0.5087
+    },
+    {
+      "second": 184,
+      "excitement": 0.4135,
+      "fear": 0.416,
+      "joy": 0.407,
+      "suspense": 0.4155,
+      "boredom": 0.5047
+    },
+    {
+      "second": 185,
+      "excitement": 0.3772,
+      "fear": 0.3814,
+      "joy": 0.3635,
+      "suspense": 0.3765,
+      "boredom": 0.4943
+    },
+    {
+      "second": 186,
+      "excitement": 0.3433,
+      "fear": 0.3473,
+      "joy": 0.3306,
+      "suspense": 0.3434,
+      "boredom": 0.5214
+    },
+    {
+      "second": 187,
+      "excitement": 0.4097,
+      "fear": 0.4147,
+      "joy": 0.3938,
+      "suspense": 0.4095,
+      "boredom": 0.4665
+    }
+  ],
+  "top_scenes": [
+    {
+      "timestamp": "0:24",
+      "type": "peak",
+      "emotion": "excitement",
+      "score": 1.0,
+      "explanation": "Scene at 0:24 triggered peak excitement (100%) driven by high visual intensity and action, strong threat or tension cues, rewarding or uplifting content, building anticipation and uncertainty. Boredom was minimal (0%)."
+    },
+    {
+      "timestamp": "0:23",
+      "type": "peak",
+      "emotion": "fear",
+      "score": 0.937,
+      "explanation": "Scene at 0:23 triggered peak fear (94%) driven by high visual intensity and action, strong threat or tension cues, rewarding or uplifting content, building anticipation and uncertainty. Boredom was minimal (3%)."
+    },
+    {
+      "timestamp": "0:22",
+      "type": "peak",
+      "emotion": "joy",
+      "score": 0.8969,
+      "explanation": "Scene at 0:22 triggered peak joy (90%) driven by high visual intensity and action, strong threat or tension cues, rewarding or uplifting content, building anticipation and uncertainty. Boredom was minimal (10%)."
+    }
+  ],
+  "weak_scenes": [
+    {
+      "timestamp": "1:51",
+      "type": "drop",
+      "emotion": "boredom",
+      "score": 1.0,
+      "explanation": "Scene at 1:51 shows audience disengagement. Low responses in excitement, fear, joy, suspense. Boredom peaked at 100%. Consider adding visual variety, dialogue, or music at this point."
+    },
+    {
+      "timestamp": "1:52",
+      "type": "drop",
+      "emotion": "boredom",
+      "score": 0.9687,
+      "explanation": "Scene at 1:52 shows audience disengagement. Low responses in excitement, fear, joy, suspense. Boredom peaked at 97%. Consider adding visual variety, dialogue, or music at this point."
+    },
+    {
+      "timestamp": "1:50",
+      "type": "drop",
+      "emotion": "boredom",
+      "score": 0.9496,
+      "explanation": "Scene at 1:50 shows audience disengagement. Low responses in excitement, fear, joy, suspense. Boredom peaked at 95%. Consider adding visual variety, dialogue, or music at this point."
+    }
+  ],
+  "personas": [
+    {
+      "persona_name": "Action Lovers",
+      "overall_engagement": 0.3867,
+      "peak_moment": "0:24",
+      "timeline": [
+        {
+          "second": 1,
+          "excitement": 0.2463,
+          "fear": 0.1307,
+          "joy": 0.1655,
+          "suspense": 0.1378,
+          "boredom": 0.4582
+        },
+        {
+          "second": 2,
+          "excitement": 0.2516,
+          "fear": 0.1337,
+          "joy": 0.1677,
+          "suspense": 0.141,
+          "boredom": 0.4354
+        },
+        {
+          "second": 3,
+          "excitement": 0.2677,
+          "fear": 0.1426,
+          "joy": 0.1777,
+          "suspense": 0.1501,
+          "boredom": 0.4088
+        },
+        {
+          "second": 4,
+          "excitement": 0.2699,
+          "fear": 0.1436,
+          "joy": 0.1793,
+          "suspense": 0.1512,
+          "boredom": 0.4069
+        },
+        {
+          "second": 5,
+          "excitement": 0.2347,
+          "fear": 0.1246,
+          "joy": 0.157,
+          "suspense": 0.1319,
+          "boredom": 0.4506
+        },
+        {
+          "second": 6,
+          "excitement": 0.2318,
+          "fear": 0.123,
+          "joy": 0.1556,
+          "suspense": 0.1306,
+          "boredom": 0.4532
+        },
+        {
+          "second": 7,
+          "excitement": 0.2375,
+          "fear": 0.126,
+          "joy": 0.16,
+          "suspense": 0.1344,
+          "boredom": 0.445
+        },
+        {
+          "second": 8,
+          "excitement": 0.2813,
+          "fear": 0.1492,
+          "joy": 0.1904,
+          "suspense": 0.1593,
+          "boredom": 0.4064
+        },
+        {
+          "second": 9,
+          "excitement": 0.3083,
+          "fear": 0.1632,
+          "joy": 0.2101,
+          "suspense": 0.1748,
+          "boredom": 0.3958
+        },
+        {
+          "second": 10,
+          "excitement": 0.3502,
+          "fear": 0.1853,
+          "joy": 0.2401,
+          "suspense": 0.1988,
+          "boredom": 0.3703
+        },
+        {
+          "second": 11,
+          "excitement": 0.4034,
+          "fear": 0.2136,
+          "joy": 0.2763,
+          "suspense": 0.2288,
+          "boredom": 0.3223
+        },
+        {
+          "second": 12,
+          "excitement": 0.4314,
+          "fear": 0.2287,
+          "joy": 0.2942,
+          "suspense": 0.2442,
+          "boredom": 0.2875
+        },
+        {
+          "second": 13,
+          "excitement": 0.4338,
+          "fear": 0.2303,
+          "joy": 0.2938,
+          "suspense": 0.2448,
+          "boredom": 0.2697
+        },
+        {
+          "second": 14,
+          "excitement": 0.4329,
+          "fear": 0.2305,
+          "joy": 0.2906,
+          "suspense": 0.2436,
+          "boredom": 0.2459
+        },
+        {
+          "second": 15,
+          "excitement": 0.4513,
+          "fear": 0.2403,
+          "joy": 0.3027,
+          "suspense": 0.2534,
+          "boredom": 0.2197
+        },
+        {
+          "second": 16,
+          "excitement": 0.4867,
+          "fear": 0.2592,
+          "joy": 0.3262,
+          "suspense": 0.273,
+          "boredom": 0.1793
+        },
+        {
+          "second": 17,
+          "excitement": 0.5411,
+          "fear": 0.288,
+          "joy": 0.3628,
+          "suspense": 0.3035,
+          "boredom": 0.1188
+        },
+        {
+          "second": 18,
+          "excitement": 0.5863,
+          "fear": 0.3122,
+          "joy": 0.3922,
+          "suspense": 0.3284,
+          "boredom": 0.0648
+        },
+        {
+          "second": 19,
+          "excitement": 0.6487,
+          "fear": 0.3451,
+          "joy": 0.4355,
+          "suspense": 0.3637,
+          "boredom": 0.0086
+        },
+        {
+          "second": 20,
+          "excitement": 0.677,
+          "fear": 0.36,
+          "joy": 0.4541,
+          "suspense": 0.3792,
+          "boredom": 0.0
+        },
+        {
+          "second": 21,
+          "excitement": 0.7208,
+          "fear": 0.3831,
+          "joy": 0.4846,
+          "suspense": 0.4039,
+          "boredom": 0.0
+        },
+        {
+          "second": 22,
+          "excitement": 0.7452,
+          "fear": 0.3967,
+          "joy": 0.4983,
+          "suspense": 0.4169,
+          "boredom": 0.0
+        },
+        {
+          "second": 23,
+          "excitement": 0.7803,
+          "fear": 0.4164,
+          "joy": 0.5182,
+          "suspense": 0.4362,
+          "boredom": 0.0
+        },
+        {
+          "second": 24,
+          "excitement": 0.8333,
+          "fear": 0.4444,
+          "joy": 0.5556,
+          "suspense": 0.4667,
+          "boredom": 0.0
+        },
+        {
+          "second": 25,
+          "excitement": 0.739,
+          "fear": 0.3946,
+          "joy": 0.4913,
+          "suspense": 0.4137,
+          "boredom": 0.0
+        },
+        {
+          "second": 26,
+          "excitement": 0.7309,
+          "fear": 0.3912,
+          "joy": 0.4832,
+          "suspense": 0.4093,
+          "boredom": 0.0
+        },
+        {
+          "second": 27,
+          "excitement": 0.6963,
+          "fear": 0.3726,
+          "joy": 0.461,
+          "suspense": 0.3905,
+          "boredom": 0.0
+        },
+        {
+          "second": 28,
+          "excitement": 0.6755,
+          "fear": 0.3616,
+          "joy": 0.4464,
+          "suspense": 0.3789,
+          "boredom": 0.0
+        },
+        {
+          "second": 29,
+          "excitement": 0.679,
+          "fear": 0.3632,
+          "joy": 0.4499,
+          "suspense": 0.3807,
+          "boredom": 0.0
+        },
+        {
+          "second": 30,
+          "excitement": 0.6783,
+          "fear": 0.3625,
+          "joy": 0.4508,
+          "suspense": 0.3808,
+          "boredom": 0.0
+        },
+        {
+          "second": 31,
+          "excitement": 0.6973,
+          "fear": 0.3728,
+          "joy": 0.4619,
+          "suspense": 0.3911,
+          "boredom": 0.0
+        },
+        {
+          "second": 32,
+          "excitement": 0.6793,
+          "fear": 0.3627,
+          "joy": 0.4519,
+          "suspense": 0.3814,
+          "boredom": 0.0
+        },
+        {
+          "second": 33,
+          "excitement": 0.6639,
+          "fear": 0.3543,
+          "joy": 0.4422,
+          "suspense": 0.3728,
+          "boredom": 0.0
+        },
+        {
+          "second": 34,
+          "excitement": 0.6602,
+          "fear": 0.352,
+          "joy": 0.4406,
+          "suspense": 0.3707,
+          "boredom": 0.0
+        },
+        {
+          "second": 35,
+          "excitement": 0.6851,
+          "fear": 0.3663,
+          "joy": 0.4536,
+          "suspense": 0.3835,
+          "boredom": 0.0
+        },
+        {
+          "second": 36,
+          "excitement": 0.7119,
+          "fear": 0.3816,
+          "joy": 0.4672,
+          "suspense": 0.3974,
+          "boredom": 0.0
+        },
+        {
+          "second": 37,
+          "excitement": 0.6951,
+          "fear": 0.374,
+          "joy": 0.4516,
+          "suspense": 0.3871,
+          "boredom": 0.0
+        },
+        {
+          "second": 38,
+          "excitement": 0.6523,
+          "fear": 0.3525,
+          "joy": 0.4175,
+          "suspense": 0.3618,
+          "boredom": 0.0
+        },
+        {
+          "second": 39,
+          "excitement": 0.6074,
+          "fear": 0.3285,
+          "joy": 0.3877,
+          "suspense": 0.3367,
+          "boredom": 0.0
+        },
+        {
+          "second": 40,
+          "excitement": 0.5513,
+          "fear": 0.2991,
+          "joy": 0.3477,
+          "suspense": 0.3047,
+          "boredom": 0.0
+        },
+        {
+          "second": 41,
+          "excitement": 0.5732,
+          "fear": 0.3103,
+          "joy": 0.3632,
+          "suspense": 0.3172,
+          "boredom": 0.0
+        },
+        {
+          "second": 42,
+          "excitement": 0.5747,
+          "fear": 0.3107,
+          "joy": 0.3652,
+          "suspense": 0.3179,
+          "boredom": 0.0
+        },
+        {
+          "second": 43,
+          "excitement": 0.6356,
+          "fear": 0.3423,
+          "joy": 0.4096,
+          "suspense": 0.3528,
+          "boredom": 0.0
+        },
+        {
+          "second": 44,
+          "excitement": 0.6576,
+          "fear": 0.354,
+          "joy": 0.4242,
+          "suspense": 0.365,
+          "boredom": 0.0
+        },
+        {
+          "second": 45,
+          "excitement": 0.6501,
+          "fear": 0.3498,
+          "joy": 0.4199,
+          "suspense": 0.3608,
+          "boredom": 0.0
+        },
+        {
+          "second": 46,
+          "excitement": 0.6717,
+          "fear": 0.3626,
+          "joy": 0.4298,
+          "suspense": 0.3725,
+          "boredom": 0.0
+        },
+        {
+          "second": 47,
+          "excitement": 0.6072,
+          "fear": 0.3275,
+          "joy": 0.3901,
+          "suspense": 0.3373,
+          "boredom": 0.0
+        },
+        {
+          "second": 48,
+          "excitement": 0.5731,
+          "fear": 0.3094,
+          "joy": 0.3672,
+          "suspense": 0.3186,
+          "boredom": 0.0
+        },
+        {
+          "second": 49,
+          "excitement": 0.5763,
+          "fear": 0.3115,
+          "joy": 0.3687,
+          "suspense": 0.3209,
+          "boredom": 0.0
+        },
+        {
+          "second": 50,
+          "excitement": 0.5803,
+          "fear": 0.3121,
+          "joy": 0.3773,
+          "suspense": 0.3241,
+          "boredom": 0.0
+        },
+        {
+          "second": 51,
+          "excitement": 0.6099,
+          "fear": 0.3264,
+          "joy": 0.4038,
+          "suspense": 0.3423,
+          "boredom": 0.0193
+        },
+        {
+          "second": 52,
+          "excitement": 0.6247,
+          "fear": 0.3329,
+          "joy": 0.4189,
+          "suspense": 0.3521,
+          "boredom": 0.0524
+        },
+        {
+          "second": 53,
+          "excitement": 0.6557,
+          "fear": 0.3482,
+          "joy": 0.4447,
+          "suspense": 0.3706,
+          "boredom": 0.0685
+        },
+        {
+          "second": 54,
+          "excitement": 0.5832,
+          "fear": 0.3093,
+          "joy": 0.3962,
+          "suspense": 0.3291,
+          "boredom": 0.151
+        },
+        {
+          "second": 55,
+          "excitement": 0.5219,
+          "fear": 0.2761,
+          "joy": 0.3568,
+          "suspense": 0.2945,
+          "boredom": 0.2372
+        },
+        {
+          "second": 56,
+          "excitement": 0.4978,
+          "fear": 0.2638,
+          "joy": 0.3383,
+          "suspense": 0.2802,
+          "boredom": 0.2461
+        },
+        {
+          "second": 57,
+          "excitement": 0.4613,
+          "fear": 0.2456,
+          "joy": 0.3091,
+          "suspense": 0.2583,
+          "boredom": 0.2442
+        },
+        {
+          "second": 58,
+          "excitement": 0.4475,
+          "fear": 0.2392,
+          "joy": 0.2959,
+          "suspense": 0.25,
+          "boredom": 0.2183
+        },
+        {
+          "second": 59,
+          "excitement": 0.3662,
+          "fear": 0.196,
+          "joy": 0.2419,
+          "suspense": 0.205,
+          "boredom": 0.3072
+        },
+        {
+          "second": 60,
+          "excitement": 0.3137,
+          "fear": 0.1676,
+          "joy": 0.2083,
+          "suspense": 0.1767,
+          "boredom": 0.3633
+        },
+        {
+          "second": 61,
+          "excitement": 0.2364,
+          "fear": 0.1262,
+          "joy": 0.1558,
+          "suspense": 0.1328,
+          "boredom": 0.4447
+        },
+        {
+          "second": 62,
+          "excitement": 0.24,
+          "fear": 0.1277,
+          "joy": 0.1596,
+          "suspense": 0.1351,
+          "boredom": 0.4515
+        },
+        {
+          "second": 63,
+          "excitement": 0.2252,
+          "fear": 0.1195,
+          "joy": 0.1507,
+          "suspense": 0.1267,
+          "boredom": 0.4813
+        },
+        {
+          "second": 64,
+          "excitement": 0.2202,
+          "fear": 0.1179,
+          "joy": 0.1426,
+          "suspense": 0.1225,
+          "boredom": 0.4478
+        },
+        {
+          "second": 65,
+          "excitement": 0.1991,
+          "fear": 0.1072,
+          "joy": 0.1266,
+          "suspense": 0.1105,
+          "boredom": 0.4479
+        },
+        {
+          "second": 66,
+          "excitement": 0.1642,
+          "fear": 0.0883,
+          "joy": 0.1047,
+          "suspense": 0.0914,
+          "boredom": 0.4952
+        },
+        {
+          "second": 67,
+          "excitement": 0.1448,
+          "fear": 0.0779,
+          "joy": 0.0922,
+          "suspense": 0.0806,
+          "boredom": 0.52
+        },
+        {
+          "second": 68,
+          "excitement": 0.1444,
+          "fear": 0.0774,
+          "joy": 0.0929,
+          "suspense": 0.0806,
+          "boredom": 0.5252
+        },
+        {
+          "second": 69,
+          "excitement": 0.1453,
+          "fear": 0.0776,
+          "joy": 0.0943,
+          "suspense": 0.0812,
+          "boredom": 0.5325
+        },
+        {
+          "second": 70,
+          "excitement": 0.1637,
+          "fear": 0.0868,
+          "joy": 0.1097,
+          "suspense": 0.0922,
+          "boredom": 0.5415
+        },
+        {
+          "second": 71,
+          "excitement": 0.1889,
+          "fear": 0.1001,
+          "joy": 0.1273,
+          "suspense": 0.1068,
+          "boredom": 0.5174
+        },
+        {
+          "second": 72,
+          "excitement": 0.2099,
+          "fear": 0.1116,
+          "joy": 0.1398,
+          "suspense": 0.1185,
+          "boredom": 0.4734
+        },
+        {
+          "second": 73,
+          "excitement": 0.2027,
+          "fear": 0.1079,
+          "joy": 0.1346,
+          "suspense": 0.1147,
+          "boredom": 0.4704
+        },
+        {
+          "second": 74,
+          "excitement": 0.1885,
+          "fear": 0.1007,
+          "joy": 0.1236,
+          "suspense": 0.1065,
+          "boredom": 0.4646
+        },
+        {
+          "second": 75,
+          "excitement": 0.1888,
+          "fear": 0.1014,
+          "joy": 0.1209,
+          "suspense": 0.1059,
+          "boredom": 0.4331
+        },
+        {
+          "second": 76,
+          "excitement": 0.2032,
+          "fear": 0.1088,
+          "joy": 0.1311,
+          "suspense": 0.1141,
+          "boredom": 0.4186
+        },
+        {
+          "second": 77,
+          "excitement": 0.2272,
+          "fear": 0.1215,
+          "joy": 0.1478,
+          "suspense": 0.1276,
+          "boredom": 0.3971
+        },
+        {
+          "second": 78,
+          "excitement": 0.2765,
+          "fear": 0.1476,
+          "joy": 0.1812,
+          "suspense": 0.1552,
+          "boredom": 0.3485
+        },
+        {
+          "second": 79,
+          "excitement": 0.2887,
+          "fear": 0.1539,
+          "joy": 0.1903,
+          "suspense": 0.1624,
+          "boredom": 0.3473
+        },
+        {
+          "second": 80,
+          "excitement": 0.3305,
+          "fear": 0.1761,
+          "joy": 0.2182,
+          "suspense": 0.1856,
+          "boredom": 0.3031
+        },
+        {
+          "second": 81,
+          "excitement": 0.3518,
+          "fear": 0.1878,
+          "joy": 0.2311,
+          "suspense": 0.1974,
+          "boredom": 0.2707
+        },
+        {
+          "second": 82,
+          "excitement": 0.3721,
+          "fear": 0.1983,
+          "joy": 0.2468,
+          "suspense": 0.2093,
+          "boredom": 0.2707
+        },
+        {
+          "second": 83,
+          "excitement": 0.3887,
+          "fear": 0.207,
+          "joy": 0.2588,
+          "suspense": 0.2191,
+          "boredom": 0.2632
+        },
+        {
+          "second": 84,
+          "excitement": 0.363,
+          "fear": 0.194,
+          "joy": 0.2399,
+          "suspense": 0.2046,
+          "boredom": 0.273
+        },
+        {
+          "second": 85,
+          "excitement": 0.333,
+          "fear": 0.1778,
+          "joy": 0.2212,
+          "suspense": 0.1882,
+          "boredom": 0.3179
+        },
+        {
+          "second": 86,
+          "excitement": 0.3432,
+          "fear": 0.183,
+          "joy": 0.2292,
+          "suspense": 0.1941,
+          "boredom": 0.3213
+        },
+        {
+          "second": 87,
+          "excitement": 0.3718,
+          "fear": 0.1984,
+          "joy": 0.2484,
+          "suspense": 0.2099,
+          "boredom": 0.2933
+        },
+        {
+          "second": 88,
+          "excitement": 0.3763,
+          "fear": 0.2009,
+          "joy": 0.2507,
+          "suspense": 0.212,
+          "boredom": 0.2829
+        },
+        {
+          "second": 89,
+          "excitement": 0.3903,
+          "fear": 0.208,
+          "joy": 0.2619,
+          "suspense": 0.2205,
+          "boredom": 0.2777
+        },
+        {
+          "second": 90,
+          "excitement": 0.3732,
+          "fear": 0.1988,
+          "joy": 0.2506,
+          "suspense": 0.211,
+          "boredom": 0.2956
+        },
+        {
+          "second": 91,
+          "excitement": 0.3654,
+          "fear": 0.1949,
+          "joy": 0.2441,
+          "suspense": 0.2061,
+          "boredom": 0.2926
+        },
+        {
+          "second": 92,
+          "excitement": 0.3692,
+          "fear": 0.197,
+          "joy": 0.2458,
+          "suspense": 0.208,
+          "boredom": 0.2808
+        },
+        {
+          "second": 93,
+          "excitement": 0.386,
+          "fear": 0.2059,
+          "joy": 0.2577,
+          "suspense": 0.2176,
+          "boredom": 0.27
+        },
+        {
+          "second": 94,
+          "excitement": 0.4059,
+          "fear": 0.2162,
+          "joy": 0.2731,
+          "suspense": 0.2293,
+          "boredom": 0.2682
+        },
+        {
+          "second": 95,
+          "excitement": 0.4211,
+          "fear": 0.2247,
+          "joy": 0.2811,
+          "suspense": 0.2374,
+          "boredom": 0.2351
+        },
+        {
+          "second": 96,
+          "excitement": 0.4473,
+          "fear": 0.2384,
+          "joy": 0.2994,
+          "suspense": 0.2521,
+          "boredom": 0.2126
+        },
+        {
+          "second": 97,
+          "excitement": 0.4592,
+          "fear": 0.2451,
+          "joy": 0.3061,
+          "suspense": 0.2587,
+          "boredom": 0.1904
+        },
+        {
+          "second": 98,
+          "excitement": 0.4963,
+          "fear": 0.2646,
+          "joy": 0.3319,
+          "suspense": 0.2795,
+          "boredom": 0.1644
+        },
+        {
+          "second": 99,
+          "excitement": 0.5116,
+          "fear": 0.2725,
+          "joy": 0.3428,
+          "suspense": 0.2882,
+          "boredom": 0.1553
+        },
+        {
+          "second": 100,
+          "excitement": 0.5013,
+          "fear": 0.2671,
+          "joy": 0.3357,
+          "suspense": 0.2824,
+          "boredom": 0.1639
+        },
+        {
+          "second": 101,
+          "excitement": 0.5127,
+          "fear": 0.2709,
+          "joy": 0.3513,
+          "suspense": 0.2905,
+          "boredom": 0.2214
+        },
+        {
+          "second": 102,
+          "excitement": 0.4698,
+          "fear": 0.2471,
+          "joy": 0.3268,
+          "suspense": 0.2675,
+          "boredom": 0.3103
+        },
+        {
+          "second": 103,
+          "excitement": 0.4199,
+          "fear": 0.2203,
+          "joy": 0.2962,
+          "suspense": 0.2406,
+          "boredom": 0.3972
+        },
+        {
+          "second": 104,
+          "excitement": 0.3976,
+          "fear": 0.2083,
+          "joy": 0.2817,
+          "suspense": 0.2279,
+          "boredom": 0.432
+        },
+        {
+          "second": 105,
+          "excitement": 0.3272,
+          "fear": 0.1712,
+          "joy": 0.2328,
+          "suspense": 0.1877,
+          "boredom": 0.499
+        },
+        {
+          "second": 106,
+          "excitement": 0.2505,
+          "fear": 0.1308,
+          "joy": 0.1793,
+          "suspense": 0.1438,
+          "boredom": 0.5674
+        },
+        {
+          "second": 107,
+          "excitement": 0.2011,
+          "fear": 0.1045,
+          "joy": 0.1453,
+          "suspense": 0.1155,
+          "boredom": 0.615
+        },
+        {
+          "second": 108,
+          "excitement": 0.1638,
+          "fear": 0.0848,
+          "joy": 0.1199,
+          "suspense": 0.0946,
+          "boredom": 0.6509
+        },
+        {
+          "second": 109,
+          "excitement": 0.1226,
+          "fear": 0.0631,
+          "joy": 0.0917,
+          "suspense": 0.0717,
+          "boredom": 0.6788
+        },
+        {
+          "second": 110,
+          "excitement": 0.0491,
+          "fear": 0.0243,
+          "joy": 0.0412,
+          "suspense": 0.0302,
+          "boredom": 0.7496
+        },
+        {
+          "second": 111,
+          "excitement": 0.0133,
+          "fear": 0.0049,
+          "joy": 0.0183,
+          "suspense": 0.0104,
+          "boredom": 0.8
+        },
+        {
+          "second": 112,
+          "excitement": 0.0083,
+          "fear": 0.0032,
+          "joy": 0.0108,
+          "suspense": 0.0063,
+          "boredom": 0.7687
+        },
+        {
+          "second": 113,
+          "excitement": 0.0,
+          "fear": 0.0,
+          "joy": 0.0,
+          "suspense": 0.0,
+          "boredom": 0.7333
+        },
+        {
+          "second": 114,
+          "excitement": 0.0532,
+          "fear": 0.0299,
+          "joy": 0.0299,
+          "suspense": 0.0292,
+          "boredom": 0.6324
+        },
+        {
+          "second": 115,
+          "excitement": 0.0866,
+          "fear": 0.0488,
+          "joy": 0.0475,
+          "suspense": 0.0478,
+          "boredom": 0.5613
+        },
+        {
+          "second": 116,
+          "excitement": 0.0238,
+          "fear": 0.0154,
+          "joy": 0.0047,
+          "suspense": 0.0126,
+          "boredom": 0.5919
+        },
+        {
+          "second": 117,
+          "excitement": 0.0977,
+          "fear": 0.0549,
+          "joy": 0.0542,
+          "suspense": 0.0539,
+          "boredom": 0.5441
+        },
+        {
+          "second": 118,
+          "excitement": 0.0522,
+          "fear": 0.0316,
+          "joy": 0.0189,
+          "suspense": 0.0275,
+          "boredom": 0.5203
+        },
+        {
+          "second": 119,
+          "excitement": 0.0745,
+          "fear": 0.0424,
+          "joy": 0.0386,
+          "suspense": 0.0415,
+          "boredom": 0.5393
+        },
+        {
+          "second": 120,
+          "excitement": 0.0959,
+          "fear": 0.0549,
+          "joy": 0.0481,
+          "suspense": 0.0518,
+          "boredom": 0.4574
+        },
+        {
+          "second": 121,
+          "excitement": 0.1581,
+          "fear": 0.0886,
+          "joy": 0.0873,
+          "suspense": 0.0864,
+          "boredom": 0.3847
+        },
+        {
+          "second": 122,
+          "excitement": 0.1641,
+          "fear": 0.091,
+          "joy": 0.0944,
+          "suspense": 0.0903,
+          "boredom": 0.3885
+        },
+        {
+          "second": 123,
+          "excitement": 0.2084,
+          "fear": 0.1141,
+          "joy": 0.1271,
+          "suspense": 0.1162,
+          "boredom": 0.3794
+        },
+        {
+          "second": 124,
+          "excitement": 0.198,
+          "fear": 0.1084,
+          "joy": 0.1204,
+          "suspense": 0.1098,
+          "boredom": 0.3882
+        },
+        {
+          "second": 125,
+          "excitement": 0.2281,
+          "fear": 0.1241,
+          "joy": 0.1418,
+          "suspense": 0.1269,
+          "boredom": 0.3656
+        },
+        {
+          "second": 126,
+          "excitement": 0.2467,
+          "fear": 0.1336,
+          "joy": 0.156,
+          "suspense": 0.1379,
+          "boredom": 0.3702
+        },
+        {
+          "second": 127,
+          "excitement": 0.306,
+          "fear": 0.165,
+          "joy": 0.1964,
+          "suspense": 0.1706,
+          "boredom": 0.3128
+        },
+        {
+          "second": 128,
+          "excitement": 0.3087,
+          "fear": 0.1664,
+          "joy": 0.1976,
+          "suspense": 0.1718,
+          "boredom": 0.2941
+        },
+        {
+          "second": 129,
+          "excitement": 0.3026,
+          "fear": 0.1636,
+          "joy": 0.1923,
+          "suspense": 0.1687,
+          "boredom": 0.2915
+        },
+        {
+          "second": 130,
+          "excitement": 0.3221,
+          "fear": 0.1741,
+          "joy": 0.2048,
+          "suspense": 0.1793,
+          "boredom": 0.2727
+        },
+        {
+          "second": 131,
+          "excitement": 0.3485,
+          "fear": 0.1882,
+          "joy": 0.223,
+          "suspense": 0.1943,
+          "boredom": 0.2626
+        },
+        {
+          "second": 132,
+          "excitement": 0.3502,
+          "fear": 0.19,
+          "joy": 0.2196,
+          "suspense": 0.1938,
+          "boredom": 0.2052
+        },
+        {
+          "second": 133,
+          "excitement": 0.4002,
+          "fear": 0.2167,
+          "joy": 0.253,
+          "suspense": 0.2222,
+          "boredom": 0.159
+        },
+        {
+          "second": 134,
+          "excitement": 0.3647,
+          "fear": 0.1978,
+          "joy": 0.2298,
+          "suspense": 0.203,
+          "boredom": 0.2001
+        },
+        {
+          "second": 135,
+          "excitement": 0.3626,
+          "fear": 0.1953,
+          "joy": 0.2337,
+          "suspense": 0.203,
+          "boredom": 0.2399
+        },
+        {
+          "second": 136,
+          "excitement": 0.3653,
+          "fear": 0.1976,
+          "joy": 0.2327,
+          "suspense": 0.2033,
+          "boredom": 0.2169
+        },
+        {
+          "second": 137,
+          "excitement": 0.369,
+          "fear": 0.1997,
+          "joy": 0.2342,
+          "suspense": 0.2053,
+          "boredom": 0.2109
+        },
+        {
+          "second": 138,
+          "excitement": 0.3923,
+          "fear": 0.2118,
+          "joy": 0.2511,
+          "suspense": 0.2185,
+          "boredom": 0.188
+        },
+        {
+          "second": 139,
+          "excitement": 0.414,
+          "fear": 0.224,
+          "joy": 0.2631,
+          "suspense": 0.2303,
+          "boredom": 0.1476
+        },
+        {
+          "second": 140,
+          "excitement": 0.3797,
+          "fear": 0.2053,
+          "joy": 0.2418,
+          "suspense": 0.2111,
+          "boredom": 0.1856
+        },
+        {
+          "second": 141,
+          "excitement": 0.3996,
+          "fear": 0.2164,
+          "joy": 0.2527,
+          "suspense": 0.2219,
+          "boredom": 0.1508
+        },
+        {
+          "second": 142,
+          "excitement": 0.3912,
+          "fear": 0.2113,
+          "joy": 0.2501,
+          "suspense": 0.2176,
+          "boredom": 0.1805
+        },
+        {
+          "second": 143,
+          "excitement": 0.4354,
+          "fear": 0.2356,
+          "joy": 0.2766,
+          "suspense": 0.2421,
+          "boredom": 0.1088
+        },
+        {
+          "second": 144,
+          "excitement": 0.4972,
+          "fear": 0.268,
+          "joy": 0.3211,
+          "suspense": 0.2779,
+          "boredom": 0.0664
+        },
+        {
+          "second": 145,
+          "excitement": 0.4312,
+          "fear": 0.234,
+          "joy": 0.2712,
+          "suspense": 0.2391,
+          "boredom": 0.0921
+        },
+        {
+          "second": 146,
+          "excitement": 0.4447,
+          "fear": 0.2395,
+          "joy": 0.2877,
+          "suspense": 0.249,
+          "boredom": 0.1325
+        },
+        {
+          "second": 147,
+          "excitement": 0.4561,
+          "fear": 0.2453,
+          "joy": 0.2966,
+          "suspense": 0.2557,
+          "boredom": 0.1342
+        },
+        {
+          "second": 148,
+          "excitement": 0.4567,
+          "fear": 0.2453,
+          "joy": 0.298,
+          "suspense": 0.2562,
+          "boredom": 0.1463
+        },
+        {
+          "second": 149,
+          "excitement": 0.4628,
+          "fear": 0.2483,
+          "joy": 0.3028,
+          "suspense": 0.2599,
+          "boredom": 0.1435
+        },
+        {
+          "second": 150,
+          "excitement": 0.4369,
+          "fear": 0.2337,
+          "joy": 0.2885,
+          "suspense": 0.2457,
+          "boredom": 0.1972
+        },
+        {
+          "second": 151,
+          "excitement": 0.4522,
+          "fear": 0.242,
+          "joy": 0.2994,
+          "suspense": 0.2548,
+          "boredom": 0.1925
+        },
+        {
+          "second": 152,
+          "excitement": 0.4668,
+          "fear": 0.2507,
+          "joy": 0.3038,
+          "suspense": 0.2611,
+          "boredom": 0.1345
+        },
+        {
+          "second": 153,
+          "excitement": 0.4697,
+          "fear": 0.2528,
+          "joy": 0.3038,
+          "suspense": 0.2625,
+          "boredom": 0.1117
+        },
+        {
+          "second": 154,
+          "excitement": 0.4937,
+          "fear": 0.2663,
+          "joy": 0.3164,
+          "suspense": 0.2747,
+          "boredom": 0.0661
+        },
+        {
+          "second": 155,
+          "excitement": 0.5143,
+          "fear": 0.2773,
+          "joy": 0.3306,
+          "suspense": 0.2864,
+          "boredom": 0.0391
+        },
+        {
+          "second": 156,
+          "excitement": 0.4815,
+          "fear": 0.2586,
+          "joy": 0.3136,
+          "suspense": 0.2695,
+          "boredom": 0.1157
+        },
+        {
+          "second": 157,
+          "excitement": 0.4736,
+          "fear": 0.2543,
+          "joy": 0.3094,
+          "suspense": 0.2651,
+          "boredom": 0.1341
+        },
+        {
+          "second": 158,
+          "excitement": 0.4853,
+          "fear": 0.26,
+          "joy": 0.3187,
+          "suspense": 0.2717,
+          "boredom": 0.1315
+        },
+        {
+          "second": 159,
+          "excitement": 0.4471,
+          "fear": 0.2396,
+          "joy": 0.2933,
+          "suspense": 0.2501,
+          "boredom": 0.1717
+        },
+        {
+          "second": 160,
+          "excitement": 0.4383,
+          "fear": 0.2353,
+          "joy": 0.2859,
+          "suspense": 0.2451,
+          "boredom": 0.1679
+        },
+        {
+          "second": 161,
+          "excitement": 0.418,
+          "fear": 0.2242,
+          "joy": 0.2734,
+          "suspense": 0.2344,
+          "boredom": 0.1944
+        },
+        {
+          "second": 162,
+          "excitement": 0.449,
+          "fear": 0.2409,
+          "joy": 0.2938,
+          "suspense": 0.2517,
+          "boredom": 0.1697
+        },
+        {
+          "second": 163,
+          "excitement": 0.4442,
+          "fear": 0.2379,
+          "joy": 0.2926,
+          "suspense": 0.2496,
+          "boredom": 0.1935
+        },
+        {
+          "second": 164,
+          "excitement": 0.4311,
+          "fear": 0.2319,
+          "joy": 0.2793,
+          "suspense": 0.2408,
+          "boredom": 0.1662
+        },
+        {
+          "second": 165,
+          "excitement": 0.4374,
+          "fear": 0.236,
+          "joy": 0.2806,
+          "suspense": 0.2439,
+          "boredom": 0.152
+        },
+        {
+          "second": 166,
+          "excitement": 0.4575,
+          "fear": 0.2465,
+          "joy": 0.2959,
+          "suspense": 0.2563,
+          "boredom": 0.1293
+        },
+        {
+          "second": 167,
+          "excitement": 0.4355,
+          "fear": 0.2351,
+          "joy": 0.2798,
+          "suspense": 0.2436,
+          "boredom": 0.1464
+        },
+        {
+          "second": 168,
+          "excitement": 0.4123,
+          "fear": 0.2223,
+          "joy": 0.2667,
+          "suspense": 0.2317,
+          "boredom": 0.1881
+        },
+        {
+          "second": 169,
+          "excitement": 0.4348,
+          "fear": 0.2347,
+          "joy": 0.2798,
+          "suspense": 0.2441,
+          "boredom": 0.1447
+        },
+        {
+          "second": 170,
+          "excitement": 0.4311,
+          "fear": 0.2329,
+          "joy": 0.2766,
+          "suspense": 0.2415,
+          "boredom": 0.1498
+        },
+        {
+          "second": 171,
+          "excitement": 0.3598,
+          "fear": 0.1953,
+          "joy": 0.2269,
+          "suspense": 0.2009,
+          "boredom": 0.1891
+        },
+        {
+          "second": 172,
+          "excitement": 0.4093,
+          "fear": 0.2219,
+          "joy": 0.2586,
+          "suspense": 0.2285,
+          "boredom": 0.1244
+        },
+        {
+          "second": 173,
+          "excitement": 0.4163,
+          "fear": 0.225,
+          "joy": 0.2666,
+          "suspense": 0.2332,
+          "boredom": 0.152
+        },
+        {
+          "second": 174,
+          "excitement": 0.413,
+          "fear": 0.2232,
+          "joy": 0.2643,
+          "suspense": 0.2315,
+          "boredom": 0.1545
+        },
+        {
+          "second": 175,
+          "excitement": 0.4045,
+          "fear": 0.2171,
+          "joy": 0.2649,
+          "suspense": 0.2271,
+          "boredom": 0.2175
+        },
+        {
+          "second": 176,
+          "excitement": 0.3521,
+          "fear": 0.1894,
+          "joy": 0.2285,
+          "suspense": 0.1973,
+          "boredom": 0.2566
+        },
+        {
+          "second": 177,
+          "excitement": 0.3932,
+          "fear": 0.2108,
+          "joy": 0.2585,
+          "suspense": 0.2209,
+          "boredom": 0.2412
+        },
+        {
+          "second": 178,
+          "excitement": 0.3807,
+          "fear": 0.2038,
+          "joy": 0.2512,
+          "suspense": 0.2137,
+          "boredom": 0.2635
+        },
+        {
+          "second": 179,
+          "excitement": 0.3804,
+          "fear": 0.2035,
+          "joy": 0.2522,
+          "suspense": 0.214,
+          "boredom": 0.2795
+        },
+        {
+          "second": 180,
+          "excitement": 0.3557,
+          "fear": 0.1908,
+          "joy": 0.2332,
+          "suspense": 0.1995,
+          "boredom": 0.2849
+        },
+        {
+          "second": 181,
+          "excitement": 0.3982,
+          "fear": 0.2135,
+          "joy": 0.261,
+          "suspense": 0.2229,
+          "boredom": 0.2519
+        },
+        {
+          "second": 182,
+          "excitement": 0.3672,
+          "fear": 0.1963,
+          "joy": 0.2438,
+          "suspense": 0.2068,
+          "boredom": 0.3085
+        },
+        {
+          "second": 183,
+          "excitement": 0.3809,
+          "fear": 0.2035,
+          "joy": 0.2532,
+          "suspense": 0.214,
+          "boredom": 0.3087
+        },
+        {
+          "second": 184,
+          "excitement": 0.3446,
+          "fear": 0.1849,
+          "joy": 0.2261,
+          "suspense": 0.1939,
+          "boredom": 0.3047
+        },
+        {
+          "second": 185,
+          "excitement": 0.3143,
+          "fear": 0.1695,
+          "joy": 0.2019,
+          "suspense": 0.1757,
+          "boredom": 0.2943
+        },
+        {
+          "second": 186,
+          "excitement": 0.2861,
+          "fear": 0.1544,
+          "joy": 0.1837,
+          "suspense": 0.1603,
+          "boredom": 0.3214
+        },
+        {
+          "second": 187,
+          "excitement": 0.3414,
+          "fear": 0.1843,
+          "joy": 0.2188,
+          "suspense": 0.1911,
+          "boredom": 0.2665
+        }
+      ]
+    },
+    {
+      "persona_name": "Romance Fans",
+      "overall_engagement": 0.4206,
+      "peak_moment": "0:24",
+      "timeline": [
+        {
+          "second": 1,
+          "excitement": 0.0985,
+          "fear": 0.049,
+          "joy": 0.2979,
+          "suspense": 0.2362,
+          "boredom": 0.5082
+        },
+        {
+          "second": 2,
+          "excitement": 0.1006,
+          "fear": 0.0502,
+          "joy": 0.3019,
+          "suspense": 0.2418,
+          "boredom": 0.4854
+        },
+        {
+          "second": 3,
+          "excitement": 0.1071,
+          "fear": 0.0535,
+          "joy": 0.3198,
+          "suspense": 0.2574,
+          "boredom": 0.4588
+        },
+        {
+          "second": 4,
+          "excitement": 0.108,
+          "fear": 0.0539,
+          "joy": 0.3228,
+          "suspense": 0.2592,
+          "boredom": 0.4569
+        },
+        {
+          "second": 5,
+          "excitement": 0.0939,
+          "fear": 0.0467,
+          "joy": 0.2826,
+          "suspense": 0.2262,
+          "boredom": 0.5006
+        },
+        {
+          "second": 6,
+          "excitement": 0.0927,
+          "fear": 0.0461,
+          "joy": 0.28,
+          "suspense": 0.2239,
+          "boredom": 0.5032
+        },
+        {
+          "second": 7,
+          "excitement": 0.095,
+          "fear": 0.0472,
+          "joy": 0.288,
+          "suspense": 0.2303,
+          "boredom": 0.495
+        },
+        {
+          "second": 8,
+          "excitement": 0.1125,
+          "fear": 0.0559,
+          "joy": 0.3428,
+          "suspense": 0.2731,
+          "boredom": 0.4564
+        },
+        {
+          "second": 9,
+          "excitement": 0.1233,
+          "fear": 0.0612,
+          "joy": 0.3782,
+          "suspense": 0.2997,
+          "boredom": 0.4458
+        },
+        {
+          "second": 10,
+          "excitement": 0.1401,
+          "fear": 0.0695,
+          "joy": 0.4322,
+          "suspense": 0.3407,
+          "boredom": 0.4203
+        },
+        {
+          "second": 11,
+          "excitement": 0.1614,
+          "fear": 0.0801,
+          "joy": 0.4973,
+          "suspense": 0.3922,
+          "boredom": 0.3723
+        },
+        {
+          "second": 12,
+          "excitement": 0.1726,
+          "fear": 0.0857,
+          "joy": 0.5295,
+          "suspense": 0.4186,
+          "boredom": 0.3375
+        },
+        {
+          "second": 13,
+          "excitement": 0.1735,
+          "fear": 0.0864,
+          "joy": 0.5288,
+          "suspense": 0.4197,
+          "boredom": 0.3197
+        },
+        {
+          "second": 14,
+          "excitement": 0.1732,
+          "fear": 0.0864,
+          "joy": 0.5231,
+          "suspense": 0.4176,
+          "boredom": 0.2959
+        },
+        {
+          "second": 15,
+          "excitement": 0.1805,
+          "fear": 0.0901,
+          "joy": 0.5448,
+          "suspense": 0.4344,
+          "boredom": 0.2697
+        },
+        {
+          "second": 16,
+          "excitement": 0.1947,
+          "fear": 0.0972,
+          "joy": 0.5871,
+          "suspense": 0.4681,
+          "boredom": 0.2293
+        },
+        {
+          "second": 17,
+          "excitement": 0.2164,
+          "fear": 0.108,
+          "joy": 0.653,
+          "suspense": 0.5202,
+          "boredom": 0.1688
+        },
+        {
+          "second": 18,
+          "excitement": 0.2345,
+          "fear": 0.1171,
+          "joy": 0.706,
+          "suspense": 0.563,
+          "boredom": 0.1148
+        },
+        {
+          "second": 19,
+          "excitement": 0.2595,
+          "fear": 0.1294,
+          "joy": 0.7839,
+          "suspense": 0.6235,
+          "boredom": 0.0586
+        },
+        {
+          "second": 20,
+          "excitement": 0.2708,
+          "fear": 0.135,
+          "joy": 0.8174,
+          "suspense": 0.6501,
+          "boredom": 0.0294
+        },
+        {
+          "second": 21,
+          "excitement": 0.2883,
+          "fear": 0.1436,
+          "joy": 0.8723,
+          "suspense": 0.6923,
+          "boredom": 0.0
+        },
+        {
+          "second": 22,
+          "excitement": 0.2981,
+          "fear": 0.1488,
+          "joy": 0.8969,
+          "suspense": 0.7146,
+          "boredom": 0.0
+        },
+        {
+          "second": 23,
+          "excitement": 0.3121,
+          "fear": 0.1562,
+          "joy": 0.9328,
+          "suspense": 0.7478,
+          "boredom": 0.0
+        },
+        {
+          "second": 24,
+          "excitement": 0.3333,
+          "fear": 0.1667,
+          "joy": 1.0,
+          "suspense": 0.8,
+          "boredom": 0.0
+        },
+        {
+          "second": 25,
+          "excitement": 0.2956,
+          "fear": 0.148,
+          "joy": 0.8843,
+          "suspense": 0.7092,
+          "boredom": 0.0
+        },
+        {
+          "second": 26,
+          "excitement": 0.2924,
+          "fear": 0.1467,
+          "joy": 0.8697,
+          "suspense": 0.7016,
+          "boredom": 0.0
+        },
+        {
+          "second": 27,
+          "excitement": 0.2785,
+          "fear": 0.1397,
+          "joy": 0.8298,
+          "suspense": 0.6694,
+          "boredom": 0.0
+        },
+        {
+          "second": 28,
+          "excitement": 0.2702,
+          "fear": 0.1356,
+          "joy": 0.8036,
+          "suspense": 0.6496,
+          "boredom": 0.0
+        },
+        {
+          "second": 29,
+          "excitement": 0.2716,
+          "fear": 0.1362,
+          "joy": 0.8099,
+          "suspense": 0.6526,
+          "boredom": 0.0
+        },
+        {
+          "second": 30,
+          "excitement": 0.2713,
+          "fear": 0.1359,
+          "joy": 0.8115,
+          "suspense": 0.6529,
+          "boredom": 0.0
+        },
+        {
+          "second": 31,
+          "excitement": 0.2789,
+          "fear": 0.1398,
+          "joy": 0.8315,
+          "suspense": 0.6705,
+          "boredom": 0.0
+        },
+        {
+          "second": 32,
+          "excitement": 0.2717,
+          "fear": 0.136,
+          "joy": 0.8134,
+          "suspense": 0.6538,
+          "boredom": 0.0
+        },
+        {
+          "second": 33,
+          "excitement": 0.2656,
+          "fear": 0.1328,
+          "joy": 0.796,
+          "suspense": 0.6391,
+          "boredom": 0.0031
+        },
+        {
+          "second": 34,
+          "excitement": 0.2641,
+          "fear": 0.132,
+          "joy": 0.7931,
+          "suspense": 0.6354,
+          "boredom": 0.0212
+        },
+        {
+          "second": 35,
+          "excitement": 0.274,
+          "fear": 0.1373,
+          "joy": 0.8165,
+          "suspense": 0.6574,
+          "boredom": 0.0
+        },
+        {
+          "second": 36,
+          "excitement": 0.2848,
+          "fear": 0.1431,
+          "joy": 0.841,
+          "suspense": 0.6812,
+          "boredom": 0.0
+        },
+        {
+          "second": 37,
+          "excitement": 0.278,
+          "fear": 0.1402,
+          "joy": 0.8129,
+          "suspense": 0.6636,
+          "boredom": 0.0
+        },
+        {
+          "second": 38,
+          "excitement": 0.2609,
+          "fear": 0.1322,
+          "joy": 0.7515,
+          "suspense": 0.6202,
+          "boredom": 0.0
+        },
+        {
+          "second": 39,
+          "excitement": 0.243,
+          "fear": 0.1232,
+          "joy": 0.6978,
+          "suspense": 0.5771,
+          "boredom": 0.0
+        },
+        {
+          "second": 40,
+          "excitement": 0.2205,
+          "fear": 0.1122,
+          "joy": 0.6258,
+          "suspense": 0.5224,
+          "boredom": 0.0
+        },
+        {
+          "second": 41,
+          "excitement": 0.2293,
+          "fear": 0.1164,
+          "joy": 0.6537,
+          "suspense": 0.5438,
+          "boredom": 0.0
+        },
+        {
+          "second": 42,
+          "excitement": 0.2299,
+          "fear": 0.1165,
+          "joy": 0.6573,
+          "suspense": 0.545,
+          "boredom": 0.0
+        },
+        {
+          "second": 43,
+          "excitement": 0.2542,
+          "fear": 0.1283,
+          "joy": 0.7372,
+          "suspense": 0.6047,
+          "boredom": 0.0
+        },
+        {
+          "second": 44,
+          "excitement": 0.263,
+          "fear": 0.1328,
+          "joy": 0.7635,
+          "suspense": 0.6257,
+          "boredom": 0.0
+        },
+        {
+          "second": 45,
+          "excitement": 0.26,
+          "fear": 0.1312,
+          "joy": 0.7558,
+          "suspense": 0.6186,
+          "boredom": 0.0
+        },
+        {
+          "second": 46,
+          "excitement": 0.2687,
+          "fear": 0.136,
+          "joy": 0.7736,
+          "suspense": 0.6386,
+          "boredom": 0.0
+        },
+        {
+          "second": 47,
+          "excitement": 0.2429,
+          "fear": 0.1228,
+          "joy": 0.7021,
+          "suspense": 0.5782,
+          "boredom": 0.0
+        },
+        {
+          "second": 48,
+          "excitement": 0.2292,
+          "fear": 0.116,
+          "joy": 0.661,
+          "suspense": 0.5462,
+          "boredom": 0.0011
+        },
+        {
+          "second": 49,
+          "excitement": 0.2305,
+          "fear": 0.1168,
+          "joy": 0.6636,
+          "suspense": 0.5502,
+          "boredom": 0.0
+        },
+        {
+          "second": 50,
+          "excitement": 0.2321,
+          "fear": 0.1171,
+          "joy": 0.6792,
+          "suspense": 0.5556,
+          "boredom": 0.0411
+        },
+        {
+          "second": 51,
+          "excitement": 0.244,
+          "fear": 0.1224,
+          "joy": 0.7268,
+          "suspense": 0.5869,
+          "boredom": 0.0693
+        },
+        {
+          "second": 52,
+          "excitement": 0.2499,
+          "fear": 0.1248,
+          "joy": 0.7541,
+          "suspense": 0.6036,
+          "boredom": 0.1024
+        },
+        {
+          "second": 53,
+          "excitement": 0.2623,
+          "fear": 0.1306,
+          "joy": 0.8005,
+          "suspense": 0.6353,
+          "boredom": 0.1185
+        },
+        {
+          "second": 54,
+          "excitement": 0.2333,
+          "fear": 0.116,
+          "joy": 0.7131,
+          "suspense": 0.5642,
+          "boredom": 0.201
+        },
+        {
+          "second": 55,
+          "excitement": 0.2088,
+          "fear": 0.1035,
+          "joy": 0.6423,
+          "suspense": 0.5049,
+          "boredom": 0.2872
+        },
+        {
+          "second": 56,
+          "excitement": 0.1991,
+          "fear": 0.0989,
+          "joy": 0.609,
+          "suspense": 0.4803,
+          "boredom": 0.2961
+        },
+        {
+          "second": 57,
+          "excitement": 0.1845,
+          "fear": 0.0921,
+          "joy": 0.5563,
+          "suspense": 0.4428,
+          "boredom": 0.2942
+        },
+        {
+          "second": 58,
+          "excitement": 0.179,
+          "fear": 0.0897,
+          "joy": 0.5327,
+          "suspense": 0.4286,
+          "boredom": 0.2683
+        },
+        {
+          "second": 59,
+          "excitement": 0.1465,
+          "fear": 0.0735,
+          "joy": 0.4355,
+          "suspense": 0.3514,
+          "boredom": 0.3572
+        },
+        {
+          "second": 60,
+          "excitement": 0.1255,
+          "fear": 0.0628,
+          "joy": 0.3749,
+          "suspense": 0.3029,
+          "boredom": 0.4133
+        },
+        {
+          "second": 61,
+          "excitement": 0.0946,
+          "fear": 0.0473,
+          "joy": 0.2805,
+          "suspense": 0.2276,
+          "boredom": 0.4947
+        },
+        {
+          "second": 62,
+          "excitement": 0.096,
+          "fear": 0.0479,
+          "joy": 0.2873,
+          "suspense": 0.2316,
+          "boredom": 0.5015
+        },
+        {
+          "second": 63,
+          "excitement": 0.0901,
+          "fear": 0.0448,
+          "joy": 0.2713,
+          "suspense": 0.2173,
+          "boredom": 0.5313
+        },
+        {
+          "second": 64,
+          "excitement": 0.0881,
+          "fear": 0.0442,
+          "joy": 0.2567,
+          "suspense": 0.21,
+          "boredom": 0.4978
+        },
+        {
+          "second": 65,
+          "excitement": 0.0796,
+          "fear": 0.0402,
+          "joy": 0.2279,
+          "suspense": 0.1894,
+          "boredom": 0.4979
+        },
+        {
+          "second": 66,
+          "excitement": 0.0657,
+          "fear": 0.0331,
+          "joy": 0.1884,
+          "suspense": 0.1567,
+          "boredom": 0.5452
+        },
+        {
+          "second": 67,
+          "excitement": 0.0579,
+          "fear": 0.0292,
+          "joy": 0.1659,
+          "suspense": 0.1382,
+          "boredom": 0.57
+        },
+        {
+          "second": 68,
+          "excitement": 0.0578,
+          "fear": 0.029,
+          "joy": 0.1672,
+          "suspense": 0.1382,
+          "boredom": 0.5752
+        },
+        {
+          "second": 69,
+          "excitement": 0.0581,
+          "fear": 0.0291,
+          "joy": 0.1698,
+          "suspense": 0.1392,
+          "boredom": 0.5825
+        },
+        {
+          "second": 70,
+          "excitement": 0.0655,
+          "fear": 0.0325,
+          "joy": 0.1974,
+          "suspense": 0.158,
+          "boredom": 0.5915
+        },
+        {
+          "second": 71,
+          "excitement": 0.0756,
+          "fear": 0.0375,
+          "joy": 0.2291,
+          "suspense": 0.183,
+          "boredom": 0.5674
+        },
+        {
+          "second": 72,
+          "excitement": 0.084,
+          "fear": 0.0418,
+          "joy": 0.2517,
+          "suspense": 0.2031,
+          "boredom": 0.5234
+        },
+        {
+          "second": 73,
+          "excitement": 0.0811,
+          "fear": 0.0405,
+          "joy": 0.2423,
+          "suspense": 0.1966,
+          "boredom": 0.5204
+        },
+        {
+          "second": 74,
+          "excitement": 0.0754,
+          "fear": 0.0377,
+          "joy": 0.2224,
+          "suspense": 0.1826,
+          "boredom": 0.5146
+        },
+        {
+          "second": 75,
+          "excitement": 0.0755,
+          "fear": 0.038,
+          "joy": 0.2176,
+          "suspense": 0.1815,
+          "boredom": 0.4831
+        },
+        {
+          "second": 76,
+          "excitement": 0.0813,
+          "fear": 0.0408,
+          "joy": 0.236,
+          "suspense": 0.1955,
+          "boredom": 0.4686
+        },
+        {
+          "second": 77,
+          "excitement": 0.0909,
+          "fear": 0.0455,
+          "joy": 0.266,
+          "suspense": 0.2187,
+          "boredom": 0.4471
+        },
+        {
+          "second": 78,
+          "excitement": 0.1106,
+          "fear": 0.0553,
+          "joy": 0.3261,
+          "suspense": 0.266,
+          "boredom": 0.3985
+        },
+        {
+          "second": 79,
+          "excitement": 0.1155,
+          "fear": 0.0577,
+          "joy": 0.3425,
+          "suspense": 0.2783,
+          "boredom": 0.3973
+        },
+        {
+          "second": 80,
+          "excitement": 0.1322,
+          "fear": 0.066,
+          "joy": 0.3927,
+          "suspense": 0.3182,
+          "boredom": 0.3531
+        },
+        {
+          "second": 81,
+          "excitement": 0.1407,
+          "fear": 0.0704,
+          "joy": 0.4159,
+          "suspense": 0.3385,
+          "boredom": 0.3207
+        },
+        {
+          "second": 82,
+          "excitement": 0.1488,
+          "fear": 0.0744,
+          "joy": 0.4443,
+          "suspense": 0.3589,
+          "boredom": 0.3207
+        },
+        {
+          "second": 83,
+          "excitement": 0.1555,
+          "fear": 0.0776,
+          "joy": 0.4659,
+          "suspense": 0.3755,
+          "boredom": 0.3132
+        },
+        {
+          "second": 84,
+          "excitement": 0.1452,
+          "fear": 0.0727,
+          "joy": 0.4319,
+          "suspense": 0.3507,
+          "boredom": 0.323
+        },
+        {
+          "second": 85,
+          "excitement": 0.1332,
+          "fear": 0.0667,
+          "joy": 0.3982,
+          "suspense": 0.3226,
+          "boredom": 0.3679
+        },
+        {
+          "second": 86,
+          "excitement": 0.1373,
+          "fear": 0.0686,
+          "joy": 0.4126,
+          "suspense": 0.3327,
+          "boredom": 0.3713
+        },
+        {
+          "second": 87,
+          "excitement": 0.1487,
+          "fear": 0.0744,
+          "joy": 0.4472,
+          "suspense": 0.3598,
+          "boredom": 0.3433
+        },
+        {
+          "second": 88,
+          "excitement": 0.1505,
+          "fear": 0.0754,
+          "joy": 0.4512,
+          "suspense": 0.3634,
+          "boredom": 0.3329
+        },
+        {
+          "second": 89,
+          "excitement": 0.1561,
+          "fear": 0.078,
+          "joy": 0.4714,
+          "suspense": 0.3779,
+          "boredom": 0.3277
+        },
+        {
+          "second": 90,
+          "excitement": 0.1493,
+          "fear": 0.0745,
+          "joy": 0.451,
+          "suspense": 0.3618,
+          "boredom": 0.3456
+        },
+        {
+          "second": 91,
+          "excitement": 0.1462,
+          "fear": 0.0731,
+          "joy": 0.4394,
+          "suspense": 0.3533,
+          "boredom": 0.3426
+        },
+        {
+          "second": 92,
+          "excitement": 0.1477,
+          "fear": 0.0739,
+          "joy": 0.4425,
+          "suspense": 0.3566,
+          "boredom": 0.3308
+        },
+        {
+          "second": 93,
+          "excitement": 0.1544,
+          "fear": 0.0772,
+          "joy": 0.4639,
+          "suspense": 0.373,
+          "boredom": 0.32
+        },
+        {
+          "second": 94,
+          "excitement": 0.1624,
+          "fear": 0.0811,
+          "joy": 0.4915,
+          "suspense": 0.393,
+          "boredom": 0.3182
+        },
+        {
+          "second": 95,
+          "excitement": 0.1684,
+          "fear": 0.0842,
+          "joy": 0.5059,
+          "suspense": 0.407,
+          "boredom": 0.2851
+        },
+        {
+          "second": 96,
+          "excitement": 0.1789,
+          "fear": 0.0894,
+          "joy": 0.539,
+          "suspense": 0.4322,
+          "boredom": 0.2626
+        },
+        {
+          "second": 97,
+          "excitement": 0.1837,
+          "fear": 0.0919,
+          "joy": 0.5509,
+          "suspense": 0.4434,
+          "boredom": 0.2404
+        },
+        {
+          "second": 98,
+          "excitement": 0.1985,
+          "fear": 0.0992,
+          "joy": 0.5975,
+          "suspense": 0.4791,
+          "boredom": 0.2144
+        },
+        {
+          "second": 99,
+          "excitement": 0.2046,
+          "fear": 0.1022,
+          "joy": 0.6171,
+          "suspense": 0.494,
+          "boredom": 0.2053
+        },
+        {
+          "second": 100,
+          "excitement": 0.2005,
+          "fear": 0.1002,
+          "joy": 0.6043,
+          "suspense": 0.4841,
+          "boredom": 0.2139
+        },
+        {
+          "second": 101,
+          "excitement": 0.2051,
+          "fear": 0.1016,
+          "joy": 0.6323,
+          "suspense": 0.4979,
+          "boredom": 0.2714
+        },
+        {
+          "second": 102,
+          "excitement": 0.1879,
+          "fear": 0.0926,
+          "joy": 0.5882,
+          "suspense": 0.4586,
+          "boredom": 0.3603
+        },
+        {
+          "second": 103,
+          "excitement": 0.168,
+          "fear": 0.0826,
+          "joy": 0.5331,
+          "suspense": 0.4124,
+          "boredom": 0.4472
+        },
+        {
+          "second": 104,
+          "excitement": 0.159,
+          "fear": 0.0781,
+          "joy": 0.507,
+          "suspense": 0.3906,
+          "boredom": 0.482
+        },
+        {
+          "second": 105,
+          "excitement": 0.1309,
+          "fear": 0.0642,
+          "joy": 0.4191,
+          "suspense": 0.3218,
+          "boredom": 0.549
+        },
+        {
+          "second": 106,
+          "excitement": 0.1002,
+          "fear": 0.049,
+          "joy": 0.3228,
+          "suspense": 0.2465,
+          "boredom": 0.6174
+        },
+        {
+          "second": 107,
+          "excitement": 0.0804,
+          "fear": 0.0392,
+          "joy": 0.2615,
+          "suspense": 0.198,
+          "boredom": 0.665
+        },
+        {
+          "second": 108,
+          "excitement": 0.0655,
+          "fear": 0.0318,
+          "joy": 0.2159,
+          "suspense": 0.1622,
+          "boredom": 0.7009
+        },
+        {
+          "second": 109,
+          "excitement": 0.049,
+          "fear": 0.0236,
+          "joy": 0.165,
+          "suspense": 0.123,
+          "boredom": 0.7288
+        },
+        {
+          "second": 110,
+          "excitement": 0.0196,
+          "fear": 0.0091,
+          "joy": 0.0742,
+          "suspense": 0.0518,
+          "boredom": 0.7996
+        },
+        {
+          "second": 111,
+          "excitement": 0.0053,
+          "fear": 0.0019,
+          "joy": 0.033,
+          "suspense": 0.0178,
+          "boredom": 0.85
+        },
+        {
+          "second": 112,
+          "excitement": 0.0033,
+          "fear": 0.0012,
+          "joy": 0.0194,
+          "suspense": 0.0108,
+          "boredom": 0.8187
+        },
+        {
+          "second": 113,
+          "excitement": 0.0,
+          "fear": 0.0,
+          "joy": 0.0,
+          "suspense": 0.0,
+          "boredom": 0.7833
+        },
+        {
+          "second": 114,
+          "excitement": 0.0213,
+          "fear": 0.0112,
+          "joy": 0.0538,
+          "suspense": 0.0501,
+          "boredom": 0.6824
+        },
+        {
+          "second": 115,
+          "excitement": 0.0346,
+          "fear": 0.0183,
+          "joy": 0.0855,
+          "suspense": 0.0819,
+          "boredom": 0.6113
+        },
+        {
+          "second": 116,
+          "excitement": 0.0095,
+          "fear": 0.0058,
+          "joy": 0.0085,
+          "suspense": 0.0215,
+          "boredom": 0.6419
+        },
+        {
+          "second": 117,
+          "excitement": 0.0391,
+          "fear": 0.0206,
+          "joy": 0.0976,
+          "suspense": 0.0925,
+          "boredom": 0.5941
+        },
+        {
+          "second": 118,
+          "excitement": 0.0209,
+          "fear": 0.0119,
+          "joy": 0.034,
+          "suspense": 0.0472,
+          "boredom": 0.5703
+        },
+        {
+          "second": 119,
+          "excitement": 0.0298,
+          "fear": 0.0159,
+          "joy": 0.0694,
+          "suspense": 0.0711,
+          "boredom": 0.5893
+        },
+        {
+          "second": 120,
+          "excitement": 0.0384,
+          "fear": 0.0206,
+          "joy": 0.0866,
+          "suspense": 0.0888,
+          "boredom": 0.5074
+        },
+        {
+          "second": 121,
+          "excitement": 0.0632,
+          "fear": 0.0332,
+          "joy": 0.1571,
+          "suspense": 0.1482,
+          "boredom": 0.4347
+        },
+        {
+          "second": 122,
+          "excitement": 0.0656,
+          "fear": 0.0341,
+          "joy": 0.17,
+          "suspense": 0.1549,
+          "boredom": 0.4385
+        },
+        {
+          "second": 123,
+          "excitement": 0.0834,
+          "fear": 0.0428,
+          "joy": 0.2288,
+          "suspense": 0.1993,
+          "boredom": 0.4294
+        },
+        {
+          "second": 124,
+          "excitement": 0.0792,
+          "fear": 0.0406,
+          "joy": 0.2168,
+          "suspense": 0.1882,
+          "boredom": 0.4382
+        },
+        {
+          "second": 125,
+          "excitement": 0.0912,
+          "fear": 0.0465,
+          "joy": 0.2553,
+          "suspense": 0.2175,
+          "boredom": 0.4156
+        },
+        {
+          "second": 126,
+          "excitement": 0.0987,
+          "fear": 0.0501,
+          "joy": 0.2808,
+          "suspense": 0.2363,
+          "boredom": 0.4202
+        },
+        {
+          "second": 127,
+          "excitement": 0.1224,
+          "fear": 0.0619,
+          "joy": 0.3536,
+          "suspense": 0.2925,
+          "boredom": 0.3628
+        },
+        {
+          "second": 128,
+          "excitement": 0.1235,
+          "fear": 0.0624,
+          "joy": 0.3557,
+          "suspense": 0.2946,
+          "boredom": 0.3441
+        },
+        {
+          "second": 129,
+          "excitement": 0.121,
+          "fear": 0.0613,
+          "joy": 0.3461,
+          "suspense": 0.2893,
+          "boredom": 0.3415
+        },
+        {
+          "second": 130,
+          "excitement": 0.1288,
+          "fear": 0.0653,
+          "joy": 0.3686,
+          "suspense": 0.3074,
+          "boredom": 0.3227
+        },
+        {
+          "second": 131,
+          "excitement": 0.1394,
+          "fear": 0.0706,
+          "joy": 0.4014,
+          "suspense": 0.3331,
+          "boredom": 0.3126
+        },
+        {
+          "second": 132,
+          "excitement": 0.1401,
+          "fear": 0.0713,
+          "joy": 0.3952,
+          "suspense": 0.3322,
+          "boredom": 0.2552
+        },
+        {
+          "second": 133,
+          "excitement": 0.1601,
+          "fear": 0.0813,
+          "joy": 0.4554,
+          "suspense": 0.381,
+          "boredom": 0.209
+        },
+        {
+          "second": 134,
+          "excitement": 0.1459,
+          "fear": 0.0742,
+          "joy": 0.4137,
+          "suspense": 0.3479,
+          "boredom": 0.2501
+        },
+        {
+          "second": 135,
+          "excitement": 0.145,
+          "fear": 0.0732,
+          "joy": 0.4206,
+          "suspense": 0.3479,
+          "boredom": 0.2899
+        },
+        {
+          "second": 136,
+          "excitement": 0.1461,
+          "fear": 0.0741,
+          "joy": 0.4189,
+          "suspense": 0.3486,
+          "boredom": 0.2669
+        },
+        {
+          "second": 137,
+          "excitement": 0.1476,
+          "fear": 0.0749,
+          "joy": 0.4215,
+          "suspense": 0.352,
+          "boredom": 0.2609
+        },
+        {
+          "second": 138,
+          "excitement": 0.1569,
+          "fear": 0.0794,
+          "joy": 0.452,
+          "suspense": 0.3746,
+          "boredom": 0.238
+        },
+        {
+          "second": 139,
+          "excitement": 0.1656,
+          "fear": 0.084,
+          "joy": 0.4735,
+          "suspense": 0.3947,
+          "boredom": 0.1976
+        },
+        {
+          "second": 140,
+          "excitement": 0.1519,
+          "fear": 0.077,
+          "joy": 0.4353,
+          "suspense": 0.3619,
+          "boredom": 0.2356
+        },
+        {
+          "second": 141,
+          "excitement": 0.1598,
+          "fear": 0.0811,
+          "joy": 0.4548,
+          "suspense": 0.3805,
+          "boredom": 0.2008
+        },
+        {
+          "second": 142,
+          "excitement": 0.1565,
+          "fear": 0.0792,
+          "joy": 0.4502,
+          "suspense": 0.373,
+          "boredom": 0.2305
+        },
+        {
+          "second": 143,
+          "excitement": 0.1742,
+          "fear": 0.0883,
+          "joy": 0.4979,
+          "suspense": 0.415,
+          "boredom": 0.1588
+        },
+        {
+          "second": 144,
+          "excitement": 0.1989,
+          "fear": 0.1005,
+          "joy": 0.5779,
+          "suspense": 0.4765,
+          "boredom": 0.1164
+        },
+        {
+          "second": 145,
+          "excitement": 0.1725,
+          "fear": 0.0877,
+          "joy": 0.4882,
+          "suspense": 0.4099,
+          "boredom": 0.1421
+        },
+        {
+          "second": 146,
+          "excitement": 0.1779,
+          "fear": 0.0898,
+          "joy": 0.5179,
+          "suspense": 0.4268,
+          "boredom": 0.1825
+        },
+        {
+          "second": 147,
+          "excitement": 0.1824,
+          "fear": 0.092,
+          "joy": 0.5338,
+          "suspense": 0.4383,
+          "boredom": 0.1842
+        },
+        {
+          "second": 148,
+          "excitement": 0.1827,
+          "fear": 0.092,
+          "joy": 0.5364,
+          "suspense": 0.4393,
+          "boredom": 0.1963
+        },
+        {
+          "second": 149,
+          "excitement": 0.1851,
+          "fear": 0.0931,
+          "joy": 0.545,
+          "suspense": 0.4456,
+          "boredom": 0.1935
+        },
+        {
+          "second": 150,
+          "excitement": 0.1748,
+          "fear": 0.0876,
+          "joy": 0.5193,
+          "suspense": 0.4213,
+          "boredom": 0.2472
+        },
+        {
+          "second": 151,
+          "excitement": 0.1809,
+          "fear": 0.0907,
+          "joy": 0.5389,
+          "suspense": 0.4368,
+          "boredom": 0.2425
+        },
+        {
+          "second": 152,
+          "excitement": 0.1867,
+          "fear": 0.094,
+          "joy": 0.5469,
+          "suspense": 0.4475,
+          "boredom": 0.1845
+        },
+        {
+          "second": 153,
+          "excitement": 0.1879,
+          "fear": 0.0948,
+          "joy": 0.5468,
+          "suspense": 0.4501,
+          "boredom": 0.1617
+        },
+        {
+          "second": 154,
+          "excitement": 0.1975,
+          "fear": 0.0998,
+          "joy": 0.5695,
+          "suspense": 0.471,
+          "boredom": 0.1161
+        },
+        {
+          "second": 155,
+          "excitement": 0.2057,
+          "fear": 0.104,
+          "joy": 0.5951,
+          "suspense": 0.491,
+          "boredom": 0.0891
+        },
+        {
+          "second": 156,
+          "excitement": 0.1926,
+          "fear": 0.097,
+          "joy": 0.5644,
+          "suspense": 0.462,
+          "boredom": 0.1657
+        },
+        {
+          "second": 157,
+          "excitement": 0.1894,
+          "fear": 0.0954,
+          "joy": 0.557,
+          "suspense": 0.4544,
+          "boredom": 0.1841
+        },
+        {
+          "second": 158,
+          "excitement": 0.1941,
+          "fear": 0.0975,
+          "joy": 0.5737,
+          "suspense": 0.4658,
+          "boredom": 0.1815
+        },
+        {
+          "second": 159,
+          "excitement": 0.1788,
+          "fear": 0.0898,
+          "joy": 0.5279,
+          "suspense": 0.4287,
+          "boredom": 0.2217
+        },
+        {
+          "second": 160,
+          "excitement": 0.1753,
+          "fear": 0.0882,
+          "joy": 0.5147,
+          "suspense": 0.4202,
+          "boredom": 0.2179
+        },
+        {
+          "second": 161,
+          "excitement": 0.1672,
+          "fear": 0.0841,
+          "joy": 0.4921,
+          "suspense": 0.4018,
+          "boredom": 0.2444
+        },
+        {
+          "second": 162,
+          "excitement": 0.1796,
+          "fear": 0.0903,
+          "joy": 0.5288,
+          "suspense": 0.4315,
+          "boredom": 0.2197
+        },
+        {
+          "second": 163,
+          "excitement": 0.1777,
+          "fear": 0.0892,
+          "joy": 0.5266,
+          "suspense": 0.4279,
+          "boredom": 0.2435
+        },
+        {
+          "second": 164,
+          "excitement": 0.1724,
+          "fear": 0.087,
+          "joy": 0.5027,
+          "suspense": 0.4127,
+          "boredom": 0.2162
+        },
+        {
+          "second": 165,
+          "excitement": 0.175,
+          "fear": 0.0885,
+          "joy": 0.5051,
+          "suspense": 0.4182,
+          "boredom": 0.202
+        },
+        {
+          "second": 166,
+          "excitement": 0.183,
+          "fear": 0.0924,
+          "joy": 0.5327,
+          "suspense": 0.4394,
+          "boredom": 0.1793
+        },
+        {
+          "second": 167,
+          "excitement": 0.1742,
+          "fear": 0.0882,
+          "joy": 0.5036,
+          "suspense": 0.4176,
+          "boredom": 0.1964
+        },
+        {
+          "second": 168,
+          "excitement": 0.1649,
+          "fear": 0.0833,
+          "joy": 0.48,
+          "suspense": 0.3972,
+          "boredom": 0.2381
+        },
+        {
+          "second": 169,
+          "excitement": 0.1739,
+          "fear": 0.088,
+          "joy": 0.5037,
+          "suspense": 0.4185,
+          "boredom": 0.1947
+        },
+        {
+          "second": 170,
+          "excitement": 0.1724,
+          "fear": 0.0873,
+          "joy": 0.4979,
+          "suspense": 0.4141,
+          "boredom": 0.1998
+        },
+        {
+          "second": 171,
+          "excitement": 0.1439,
+          "fear": 0.0732,
+          "joy": 0.4084,
+          "suspense": 0.3445,
+          "boredom": 0.2391
+        },
+        {
+          "second": 172,
+          "excitement": 0.1637,
+          "fear": 0.0832,
+          "joy": 0.4655,
+          "suspense": 0.3917,
+          "boredom": 0.1744
+        },
+        {
+          "second": 173,
+          "excitement": 0.1665,
+          "fear": 0.0844,
+          "joy": 0.4798,
+          "suspense": 0.3998,
+          "boredom": 0.202
+        },
+        {
+          "second": 174,
+          "excitement": 0.1652,
+          "fear": 0.0837,
+          "joy": 0.4757,
+          "suspense": 0.3969,
+          "boredom": 0.2045
+        },
+        {
+          "second": 175,
+          "excitement": 0.1618,
+          "fear": 0.0814,
+          "joy": 0.4769,
+          "suspense": 0.3893,
+          "boredom": 0.2675
+        },
+        {
+          "second": 176,
+          "excitement": 0.1408,
+          "fear": 0.071,
+          "joy": 0.4113,
+          "suspense": 0.3382,
+          "boredom": 0.3066
+        },
+        {
+          "second": 177,
+          "excitement": 0.1573,
+          "fear": 0.0791,
+          "joy": 0.4653,
+          "suspense": 0.3786,
+          "boredom": 0.2912
+        },
+        {
+          "second": 178,
+          "excitement": 0.1523,
+          "fear": 0.0764,
+          "joy": 0.4521,
+          "suspense": 0.3663,
+          "boredom": 0.3135
+        },
+        {
+          "second": 179,
+          "excitement": 0.1522,
+          "fear": 0.0763,
+          "joy": 0.454,
+          "suspense": 0.3668,
+          "boredom": 0.3295
+        },
+        {
+          "second": 180,
+          "excitement": 0.1423,
+          "fear": 0.0715,
+          "joy": 0.4197,
+          "suspense": 0.342,
+          "boredom": 0.3349
+        },
+        {
+          "second": 181,
+          "excitement": 0.1593,
+          "fear": 0.0801,
+          "joy": 0.4698,
+          "suspense": 0.3822,
+          "boredom": 0.3019
+        },
+        {
+          "second": 182,
+          "excitement": 0.1469,
+          "fear": 0.0736,
+          "joy": 0.4388,
+          "suspense": 0.3545,
+          "boredom": 0.3585
+        },
+        {
+          "second": 183,
+          "excitement": 0.1524,
+          "fear": 0.0763,
+          "joy": 0.4558,
+          "suspense": 0.3668,
+          "boredom": 0.3587
+        },
+        {
+          "second": 184,
+          "excitement": 0.1378,
+          "fear": 0.0693,
+          "joy": 0.407,
+          "suspense": 0.3324,
+          "boredom": 0.3547
+        },
+        {
+          "second": 185,
+          "excitement": 0.1257,
+          "fear": 0.0636,
+          "joy": 0.3635,
+          "suspense": 0.3012,
+          "boredom": 0.3443
+        },
+        {
+          "second": 186,
+          "excitement": 0.1144,
+          "fear": 0.0579,
+          "joy": 0.3306,
+          "suspense": 0.2747,
+          "boredom": 0.3714
+        },
+        {
+          "second": 187,
+          "excitement": 0.1366,
+          "fear": 0.0691,
+          "joy": 0.3938,
+          "suspense": 0.3276,
+          "boredom": 0.3165
+        }
+      ]
+    },
+    {
+      "persona_name": "Horror Enthusiasts",
+      "overall_engagement": 0.4449,
+      "peak_moment": "0:24",
+      "timeline": [
+        {
+          "second": 1,
+          "excitement": 0.1478,
+          "fear": 0.2941,
+          "joy": 0.0496,
+          "suspense": 0.2952,
+          "boredom": 0.4582
+        },
+        {
+          "second": 2,
+          "excitement": 0.151,
+          "fear": 0.3009,
+          "joy": 0.0503,
+          "suspense": 0.3022,
+          "boredom": 0.4354
+        },
+        {
+          "second": 3,
+          "excitement": 0.1606,
+          "fear": 0.3209,
+          "joy": 0.0533,
+          "suspense": 0.3217,
+          "boredom": 0.4088
+        },
+        {
+          "second": 4,
+          "excitement": 0.162,
+          "fear": 0.3231,
+          "joy": 0.0538,
+          "suspense": 0.324,
+          "boredom": 0.4069
+        },
+        {
+          "second": 5,
+          "excitement": 0.1409,
+          "fear": 0.2803,
+          "joy": 0.0471,
+          "suspense": 0.2827,
+          "boredom": 0.4506
+        },
+        {
+          "second": 6,
+          "excitement": 0.1391,
+          "fear": 0.2767,
+          "joy": 0.0467,
+          "suspense": 0.2799,
+          "boredom": 0.4532
+        },
+        {
+          "second": 7,
+          "excitement": 0.1425,
+          "fear": 0.2835,
+          "joy": 0.048,
+          "suspense": 0.2879,
+          "boredom": 0.445
+        },
+        {
+          "second": 8,
+          "excitement": 0.1688,
+          "fear": 0.3356,
+          "joy": 0.0571,
+          "suspense": 0.3414,
+          "boredom": 0.4064
+        },
+        {
+          "second": 9,
+          "excitement": 0.185,
+          "fear": 0.3673,
+          "joy": 0.063,
+          "suspense": 0.3746,
+          "boredom": 0.3958
+        },
+        {
+          "second": 10,
+          "excitement": 0.2102,
+          "fear": 0.417,
+          "joy": 0.072,
+          "suspense": 0.4259,
+          "boredom": 0.3703
+        },
+        {
+          "second": 11,
+          "excitement": 0.242,
+          "fear": 0.4805,
+          "joy": 0.0829,
+          "suspense": 0.4902,
+          "boredom": 0.3223
+        },
+        {
+          "second": 12,
+          "excitement": 0.2589,
+          "fear": 0.5145,
+          "joy": 0.0882,
+          "suspense": 0.5232,
+          "boredom": 0.2875
+        },
+        {
+          "second": 13,
+          "excitement": 0.2603,
+          "fear": 0.5182,
+          "joy": 0.0881,
+          "suspense": 0.5246,
+          "boredom": 0.2697
+        },
+        {
+          "second": 14,
+          "excitement": 0.2597,
+          "fear": 0.5186,
+          "joy": 0.0872,
+          "suspense": 0.522,
+          "boredom": 0.2459
+        },
+        {
+          "second": 15,
+          "excitement": 0.2708,
+          "fear": 0.5407,
+          "joy": 0.0908,
+          "suspense": 0.543,
+          "boredom": 0.2197
+        },
+        {
+          "second": 16,
+          "excitement": 0.292,
+          "fear": 0.5831,
+          "joy": 0.0978,
+          "suspense": 0.5851,
+          "boredom": 0.1793
+        },
+        {
+          "second": 17,
+          "excitement": 0.3247,
+          "fear": 0.6479,
+          "joy": 0.1088,
+          "suspense": 0.6503,
+          "boredom": 0.1188
+        },
+        {
+          "second": 18,
+          "excitement": 0.3518,
+          "fear": 0.7025,
+          "joy": 0.1177,
+          "suspense": 0.7038,
+          "boredom": 0.0648
+        },
+        {
+          "second": 19,
+          "excitement": 0.3892,
+          "fear": 0.7764,
+          "joy": 0.1306,
+          "suspense": 0.7794,
+          "boredom": 0.0086
+        },
+        {
+          "second": 20,
+          "excitement": 0.4062,
+          "fear": 0.8101,
+          "joy": 0.1362,
+          "suspense": 0.8126,
+          "boredom": 0.0
+        },
+        {
+          "second": 21,
+          "excitement": 0.4325,
+          "fear": 0.8619,
+          "joy": 0.1454,
+          "suspense": 0.8654,
+          "boredom": 0.0
+        },
+        {
+          "second": 22,
+          "excitement": 0.4471,
+          "fear": 0.8926,
+          "joy": 0.1495,
+          "suspense": 0.8933,
+          "boredom": 0.0
+        },
+        {
+          "second": 23,
+          "excitement": 0.4682,
+          "fear": 0.937,
+          "joy": 0.1555,
+          "suspense": 0.9347,
+          "boredom": 0.0
+        },
+        {
+          "second": 24,
+          "excitement": 0.5,
+          "fear": 1.0,
+          "joy": 0.1667,
+          "suspense": 1.0,
+          "boredom": 0.0
+        },
+        {
+          "second": 25,
+          "excitement": 0.4434,
+          "fear": 0.8879,
+          "joy": 0.1474,
+          "suspense": 0.8865,
+          "boredom": 0.0
+        },
+        {
+          "second": 26,
+          "excitement": 0.4385,
+          "fear": 0.8801,
+          "joy": 0.1449,
+          "suspense": 0.877,
+          "boredom": 0.0
+        },
+        {
+          "second": 27,
+          "excitement": 0.4178,
+          "fear": 0.8384,
+          "joy": 0.1383,
+          "suspense": 0.8368,
+          "boredom": 0.0
+        },
+        {
+          "second": 28,
+          "excitement": 0.4053,
+          "fear": 0.8137,
+          "joy": 0.1339,
+          "suspense": 0.812,
+          "boredom": 0.0
+        },
+        {
+          "second": 29,
+          "excitement": 0.4074,
+          "fear": 0.8171,
+          "joy": 0.135,
+          "suspense": 0.8157,
+          "boredom": 0.0
+        },
+        {
+          "second": 30,
+          "excitement": 0.407,
+          "fear": 0.8156,
+          "joy": 0.1353,
+          "suspense": 0.8161,
+          "boredom": 0.0
+        },
+        {
+          "second": 31,
+          "excitement": 0.4183,
+          "fear": 0.8388,
+          "joy": 0.1386,
+          "suspense": 0.8381,
+          "boredom": 0.0
+        },
+        {
+          "second": 32,
+          "excitement": 0.4076,
+          "fear": 0.8161,
+          "joy": 0.1356,
+          "suspense": 0.8173,
+          "boredom": 0.0
+        },
+        {
+          "second": 33,
+          "excitement": 0.3983,
+          "fear": 0.7971,
+          "joy": 0.1327,
+          "suspense": 0.7989,
+          "boredom": 0.0
+        },
+        {
+          "second": 34,
+          "excitement": 0.3961,
+          "fear": 0.7921,
+          "joy": 0.1322,
+          "suspense": 0.7943,
+          "boredom": 0.0
+        },
+        {
+          "second": 35,
+          "excitement": 0.4111,
+          "fear": 0.8241,
+          "joy": 0.1361,
+          "suspense": 0.8217,
+          "boredom": 0.0
+        },
+        {
+          "second": 36,
+          "excitement": 0.4271,
+          "fear": 0.8587,
+          "joy": 0.1402,
+          "suspense": 0.8515,
+          "boredom": 0.0
+        },
+        {
+          "second": 37,
+          "excitement": 0.417,
+          "fear": 0.8414,
+          "joy": 0.1355,
+          "suspense": 0.8295,
+          "boredom": 0.0
+        },
+        {
+          "second": 38,
+          "excitement": 0.3914,
+          "fear": 0.7931,
+          "joy": 0.1253,
+          "suspense": 0.7752,
+          "boredom": 0.0
+        },
+        {
+          "second": 39,
+          "excitement": 0.3644,
+          "fear": 0.7392,
+          "joy": 0.1163,
+          "suspense": 0.7214,
+          "boredom": 0.0
+        },
+        {
+          "second": 40,
+          "excitement": 0.3308,
+          "fear": 0.6729,
+          "joy": 0.1043,
+          "suspense": 0.653,
+          "boredom": 0.0
+        },
+        {
+          "second": 41,
+          "excitement": 0.3439,
+          "fear": 0.6982,
+          "joy": 0.1089,
+          "suspense": 0.6798,
+          "boredom": 0.0
+        },
+        {
+          "second": 42,
+          "excitement": 0.3448,
+          "fear": 0.699,
+          "joy": 0.1095,
+          "suspense": 0.6813,
+          "boredom": 0.0
+        },
+        {
+          "second": 43,
+          "excitement": 0.3814,
+          "fear": 0.7701,
+          "joy": 0.1229,
+          "suspense": 0.7559,
+          "boredom": 0.0
+        },
+        {
+          "second": 44,
+          "excitement": 0.3945,
+          "fear": 0.7965,
+          "joy": 0.1272,
+          "suspense": 0.7821,
+          "boredom": 0.0
+        },
+        {
+          "second": 45,
+          "excitement": 0.3901,
+          "fear": 0.7871,
+          "joy": 0.126,
+          "suspense": 0.7732,
+          "boredom": 0.0
+        },
+        {
+          "second": 46,
+          "excitement": 0.403,
+          "fear": 0.8158,
+          "joy": 0.1289,
+          "suspense": 0.7982,
+          "boredom": 0.0
+        },
+        {
+          "second": 47,
+          "excitement": 0.3643,
+          "fear": 0.7369,
+          "joy": 0.117,
+          "suspense": 0.7227,
+          "boredom": 0.0
+        },
+        {
+          "second": 48,
+          "excitement": 0.3438,
+          "fear": 0.6962,
+          "joy": 0.1102,
+          "suspense": 0.6828,
+          "boredom": 0.0
+        },
+        {
+          "second": 49,
+          "excitement": 0.3458,
+          "fear": 0.7009,
+          "joy": 0.1106,
+          "suspense": 0.6877,
+          "boredom": 0.0
+        },
+        {
+          "second": 50,
+          "excitement": 0.3482,
+          "fear": 0.7023,
+          "joy": 0.1132,
+          "suspense": 0.6945,
+          "boredom": 0.0
+        },
+        {
+          "second": 51,
+          "excitement": 0.3659,
+          "fear": 0.7343,
+          "joy": 0.1211,
+          "suspense": 0.7336,
+          "boredom": 0.0193
+        },
+        {
+          "second": 52,
+          "excitement": 0.3748,
+          "fear": 0.7491,
+          "joy": 0.1257,
+          "suspense": 0.7545,
+          "boredom": 0.0524
+        },
+        {
+          "second": 53,
+          "excitement": 0.3934,
+          "fear": 0.7834,
+          "joy": 0.1334,
+          "suspense": 0.7941,
+          "boredom": 0.0685
+        },
+        {
+          "second": 54,
+          "excitement": 0.3499,
+          "fear": 0.696,
+          "joy": 0.1188,
+          "suspense": 0.7053,
+          "boredom": 0.151
+        },
+        {
+          "second": 55,
+          "excitement": 0.3131,
+          "fear": 0.6212,
+          "joy": 0.107,
+          "suspense": 0.6311,
+          "boredom": 0.2372
+        },
+        {
+          "second": 56,
+          "excitement": 0.2987,
+          "fear": 0.5935,
+          "joy": 0.1015,
+          "suspense": 0.6004,
+          "boredom": 0.2461
+        },
+        {
+          "second": 57,
+          "excitement": 0.2768,
+          "fear": 0.5526,
+          "joy": 0.0927,
+          "suspense": 0.5535,
+          "boredom": 0.2442
+        },
+        {
+          "second": 58,
+          "excitement": 0.2685,
+          "fear": 0.5382,
+          "joy": 0.0888,
+          "suspense": 0.5358,
+          "boredom": 0.2183
+        },
+        {
+          "second": 59,
+          "excitement": 0.2197,
+          "fear": 0.4409,
+          "joy": 0.0726,
+          "suspense": 0.4393,
+          "boredom": 0.3072
+        },
+        {
+          "second": 60,
+          "excitement": 0.1882,
+          "fear": 0.377,
+          "joy": 0.0625,
+          "suspense": 0.3786,
+          "boredom": 0.3633
+        },
+        {
+          "second": 61,
+          "excitement": 0.1419,
+          "fear": 0.2839,
+          "joy": 0.0467,
+          "suspense": 0.2845,
+          "boredom": 0.4447
+        },
+        {
+          "second": 62,
+          "excitement": 0.144,
+          "fear": 0.2873,
+          "joy": 0.0479,
+          "suspense": 0.2895,
+          "boredom": 0.4515
+        },
+        {
+          "second": 63,
+          "excitement": 0.1351,
+          "fear": 0.2688,
+          "joy": 0.0452,
+          "suspense": 0.2716,
+          "boredom": 0.4813
+        },
+        {
+          "second": 64,
+          "excitement": 0.1321,
+          "fear": 0.2653,
+          "joy": 0.0428,
+          "suspense": 0.2625,
+          "boredom": 0.4478
+        },
+        {
+          "second": 65,
+          "excitement": 0.1195,
+          "fear": 0.2412,
+          "joy": 0.038,
+          "suspense": 0.2367,
+          "boredom": 0.4479
+        },
+        {
+          "second": 66,
+          "excitement": 0.0985,
+          "fear": 0.1987,
+          "joy": 0.0314,
+          "suspense": 0.1959,
+          "boredom": 0.4952
+        },
+        {
+          "second": 67,
+          "excitement": 0.0869,
+          "fear": 0.1752,
+          "joy": 0.0276,
+          "suspense": 0.1728,
+          "boredom": 0.52
+        },
+        {
+          "second": 68,
+          "excitement": 0.0867,
+          "fear": 0.1741,
+          "joy": 0.0279,
+          "suspense": 0.1728,
+          "boredom": 0.5252
+        },
+        {
+          "second": 69,
+          "excitement": 0.0872,
+          "fear": 0.1747,
+          "joy": 0.0283,
+          "suspense": 0.174,
+          "boredom": 0.5325
+        },
+        {
+          "second": 70,
+          "excitement": 0.0982,
+          "fear": 0.1952,
+          "joy": 0.0329,
+          "suspense": 0.1975,
+          "boredom": 0.5415
+        },
+        {
+          "second": 71,
+          "excitement": 0.1134,
+          "fear": 0.2252,
+          "joy": 0.0382,
+          "suspense": 0.2288,
+          "boredom": 0.5174
+        },
+        {
+          "second": 72,
+          "excitement": 0.126,
+          "fear": 0.2511,
+          "joy": 0.0419,
+          "suspense": 0.2539,
+          "boredom": 0.4734
+        },
+        {
+          "second": 73,
+          "excitement": 0.1216,
+          "fear": 0.2428,
+          "joy": 0.0404,
+          "suspense": 0.2457,
+          "boredom": 0.4704
+        },
+        {
+          "second": 74,
+          "excitement": 0.1131,
+          "fear": 0.2265,
+          "joy": 0.0371,
+          "suspense": 0.2283,
+          "boredom": 0.4646
+        },
+        {
+          "second": 75,
+          "excitement": 0.1133,
+          "fear": 0.2281,
+          "joy": 0.0363,
+          "suspense": 0.2269,
+          "boredom": 0.4331
+        },
+        {
+          "second": 76,
+          "excitement": 0.1219,
+          "fear": 0.2448,
+          "joy": 0.0393,
+          "suspense": 0.2444,
+          "boredom": 0.4186
+        },
+        {
+          "second": 77,
+          "excitement": 0.1363,
+          "fear": 0.2733,
+          "joy": 0.0443,
+          "suspense": 0.2734,
+          "boredom": 0.3971
+        },
+        {
+          "second": 78,
+          "excitement": 0.1659,
+          "fear": 0.3321,
+          "joy": 0.0543,
+          "suspense": 0.3325,
+          "boredom": 0.3485
+        },
+        {
+          "second": 79,
+          "excitement": 0.1732,
+          "fear": 0.3463,
+          "joy": 0.0571,
+          "suspense": 0.3479,
+          "boredom": 0.3473
+        },
+        {
+          "second": 80,
+          "excitement": 0.1983,
+          "fear": 0.3962,
+          "joy": 0.0654,
+          "suspense": 0.3978,
+          "boredom": 0.3031
+        },
+        {
+          "second": 81,
+          "excitement": 0.211,
+          "fear": 0.4226,
+          "joy": 0.0693,
+          "suspense": 0.4231,
+          "boredom": 0.2707
+        },
+        {
+          "second": 82,
+          "excitement": 0.2233,
+          "fear": 0.4462,
+          "joy": 0.074,
+          "suspense": 0.4486,
+          "boredom": 0.2707
+        },
+        {
+          "second": 83,
+          "excitement": 0.2332,
+          "fear": 0.4658,
+          "joy": 0.0776,
+          "suspense": 0.4694,
+          "boredom": 0.2632
+        },
+        {
+          "second": 84,
+          "excitement": 0.2178,
+          "fear": 0.4365,
+          "joy": 0.072,
+          "suspense": 0.4384,
+          "boredom": 0.273
+        },
+        {
+          "second": 85,
+          "excitement": 0.1998,
+          "fear": 0.4001,
+          "joy": 0.0664,
+          "suspense": 0.4033,
+          "boredom": 0.3179
+        },
+        {
+          "second": 86,
+          "excitement": 0.2059,
+          "fear": 0.4117,
+          "joy": 0.0688,
+          "suspense": 0.4159,
+          "boredom": 0.3213
+        },
+        {
+          "second": 87,
+          "excitement": 0.2231,
+          "fear": 0.4464,
+          "joy": 0.0745,
+          "suspense": 0.4498,
+          "boredom": 0.2933
+        },
+        {
+          "second": 88,
+          "excitement": 0.2258,
+          "fear": 0.4521,
+          "joy": 0.0752,
+          "suspense": 0.4543,
+          "boredom": 0.2829
+        },
+        {
+          "second": 89,
+          "excitement": 0.2342,
+          "fear": 0.468,
+          "joy": 0.0786,
+          "suspense": 0.4724,
+          "boredom": 0.2777
+        },
+        {
+          "second": 90,
+          "excitement": 0.2239,
+          "fear": 0.4473,
+          "joy": 0.0752,
+          "suspense": 0.4522,
+          "boredom": 0.2956
+        },
+        {
+          "second": 91,
+          "excitement": 0.2193,
+          "fear": 0.4386,
+          "joy": 0.0732,
+          "suspense": 0.4416,
+          "boredom": 0.2926
+        },
+        {
+          "second": 92,
+          "excitement": 0.2215,
+          "fear": 0.4433,
+          "joy": 0.0737,
+          "suspense": 0.4457,
+          "boredom": 0.2808
+        },
+        {
+          "second": 93,
+          "excitement": 0.2316,
+          "fear": 0.4633,
+          "joy": 0.0773,
+          "suspense": 0.4662,
+          "boredom": 0.27
+        },
+        {
+          "second": 94,
+          "excitement": 0.2435,
+          "fear": 0.4864,
+          "joy": 0.0819,
+          "suspense": 0.4913,
+          "boredom": 0.2682
+        },
+        {
+          "second": 95,
+          "excitement": 0.2526,
+          "fear": 0.5055,
+          "joy": 0.0843,
+          "suspense": 0.5088,
+          "boredom": 0.2351
+        },
+        {
+          "second": 96,
+          "excitement": 0.2684,
+          "fear": 0.5364,
+          "joy": 0.0898,
+          "suspense": 0.5402,
+          "boredom": 0.2126
+        },
+        {
+          "second": 97,
+          "excitement": 0.2755,
+          "fear": 0.5515,
+          "joy": 0.0918,
+          "suspense": 0.5543,
+          "boredom": 0.1904
+        },
+        {
+          "second": 98,
+          "excitement": 0.2978,
+          "fear": 0.5953,
+          "joy": 0.0996,
+          "suspense": 0.5989,
+          "boredom": 0.1644
+        },
+        {
+          "second": 99,
+          "excitement": 0.307,
+          "fear": 0.6131,
+          "joy": 0.1028,
+          "suspense": 0.6175,
+          "boredom": 0.1553
+        },
+        {
+          "second": 100,
+          "excitement": 0.3008,
+          "fear": 0.601,
+          "joy": 0.1007,
+          "suspense": 0.6051,
+          "boredom": 0.1639
+        },
+        {
+          "second": 101,
+          "excitement": 0.3076,
+          "fear": 0.6095,
+          "joy": 0.1054,
+          "suspense": 0.6224,
+          "boredom": 0.2214
+        },
+        {
+          "second": 102,
+          "excitement": 0.2818,
+          "fear": 0.5559,
+          "joy": 0.098,
+          "suspense": 0.5733,
+          "boredom": 0.3103
+        },
+        {
+          "second": 103,
+          "excitement": 0.252,
+          "fear": 0.4956,
+          "joy": 0.0888,
+          "suspense": 0.5155,
+          "boredom": 0.3972
+        },
+        {
+          "second": 104,
+          "excitement": 0.2386,
+          "fear": 0.4687,
+          "joy": 0.0845,
+          "suspense": 0.4883,
+          "boredom": 0.432
+        },
+        {
+          "second": 105,
+          "excitement": 0.1963,
+          "fear": 0.3852,
+          "joy": 0.0698,
+          "suspense": 0.4023,
+          "boredom": 0.499
+        },
+        {
+          "second": 106,
+          "excitement": 0.1503,
+          "fear": 0.2942,
+          "joy": 0.0538,
+          "suspense": 0.3081,
+          "boredom": 0.5674
+        },
+        {
+          "second": 107,
+          "excitement": 0.1206,
+          "fear": 0.2352,
+          "joy": 0.0436,
+          "suspense": 0.2475,
+          "boredom": 0.615
+        },
+        {
+          "second": 108,
+          "excitement": 0.0983,
+          "fear": 0.1907,
+          "joy": 0.036,
+          "suspense": 0.2028,
+          "boredom": 0.6509
+        },
+        {
+          "second": 109,
+          "excitement": 0.0736,
+          "fear": 0.1419,
+          "joy": 0.0275,
+          "suspense": 0.1537,
+          "boredom": 0.6788
+        },
+        {
+          "second": 110,
+          "excitement": 0.0295,
+          "fear": 0.0546,
+          "joy": 0.0124,
+          "suspense": 0.0647,
+          "boredom": 0.7496
+        },
+        {
+          "second": 111,
+          "excitement": 0.008,
+          "fear": 0.0111,
+          "joy": 0.0055,
+          "suspense": 0.0222,
+          "boredom": 0.8
+        },
+        {
+          "second": 112,
+          "excitement": 0.005,
+          "fear": 0.0072,
+          "joy": 0.0032,
+          "suspense": 0.0135,
+          "boredom": 0.7687
+        },
+        {
+          "second": 113,
+          "excitement": 0.0,
+          "fear": 0.0,
+          "joy": 0.0,
+          "suspense": 0.0,
+          "boredom": 0.7333
+        },
+        {
+          "second": 114,
+          "excitement": 0.0319,
+          "fear": 0.0672,
+          "joy": 0.009,
+          "suspense": 0.0626,
+          "boredom": 0.6324
+        },
+        {
+          "second": 115,
+          "excitement": 0.052,
+          "fear": 0.1099,
+          "joy": 0.0143,
+          "suspense": 0.1024,
+          "boredom": 0.5613
+        },
+        {
+          "second": 116,
+          "excitement": 0.0143,
+          "fear": 0.0347,
+          "joy": 0.0014,
+          "suspense": 0.0269,
+          "boredom": 0.5919
+        },
+        {
+          "second": 117,
+          "excitement": 0.0586,
+          "fear": 0.1236,
+          "joy": 0.0163,
+          "suspense": 0.1156,
+          "boredom": 0.5441
+        },
+        {
+          "second": 118,
+          "excitement": 0.0313,
+          "fear": 0.0712,
+          "joy": 0.0057,
+          "suspense": 0.059,
+          "boredom": 0.5203
+        },
+        {
+          "second": 119,
+          "excitement": 0.0447,
+          "fear": 0.0954,
+          "joy": 0.0116,
+          "suspense": 0.0889,
+          "boredom": 0.5393
+        },
+        {
+          "second": 120,
+          "excitement": 0.0575,
+          "fear": 0.1236,
+          "joy": 0.0144,
+          "suspense": 0.111,
+          "boredom": 0.4574
+        },
+        {
+          "second": 121,
+          "excitement": 0.0949,
+          "fear": 0.1993,
+          "joy": 0.0262,
+          "suspense": 0.1852,
+          "boredom": 0.3847
+        },
+        {
+          "second": 122,
+          "excitement": 0.0984,
+          "fear": 0.2048,
+          "joy": 0.0283,
+          "suspense": 0.1936,
+          "boredom": 0.3885
+        },
+        {
+          "second": 123,
+          "excitement": 0.125,
+          "fear": 0.2568,
+          "joy": 0.0381,
+          "suspense": 0.2491,
+          "boredom": 0.3794
+        },
+        {
+          "second": 124,
+          "excitement": 0.1188,
+          "fear": 0.2438,
+          "joy": 0.0361,
+          "suspense": 0.2353,
+          "boredom": 0.3882
+        },
+        {
+          "second": 125,
+          "excitement": 0.1368,
+          "fear": 0.2792,
+          "joy": 0.0426,
+          "suspense": 0.2719,
+          "boredom": 0.3656
+        },
+        {
+          "second": 126,
+          "excitement": 0.148,
+          "fear": 0.3007,
+          "joy": 0.0468,
+          "suspense": 0.2954,
+          "boredom": 0.3702
+        },
+        {
+          "second": 127,
+          "excitement": 0.1836,
+          "fear": 0.3713,
+          "joy": 0.0589,
+          "suspense": 0.3656,
+          "boredom": 0.3128
+        },
+        {
+          "second": 128,
+          "excitement": 0.1852,
+          "fear": 0.3745,
+          "joy": 0.0593,
+          "suspense": 0.3682,
+          "boredom": 0.2941
+        },
+        {
+          "second": 129,
+          "excitement": 0.1815,
+          "fear": 0.3681,
+          "joy": 0.0577,
+          "suspense": 0.3616,
+          "boredom": 0.2915
+        },
+        {
+          "second": 130,
+          "excitement": 0.1932,
+          "fear": 0.3918,
+          "joy": 0.0614,
+          "suspense": 0.3842,
+          "boredom": 0.2727
+        },
+        {
+          "second": 131,
+          "excitement": 0.2091,
+          "fear": 0.4235,
+          "joy": 0.0669,
+          "suspense": 0.4164,
+          "boredom": 0.2626
+        },
+        {
+          "second": 132,
+          "excitement": 0.2101,
+          "fear": 0.4276,
+          "joy": 0.0659,
+          "suspense": 0.4153,
+          "boredom": 0.2052
+        },
+        {
+          "second": 133,
+          "excitement": 0.2401,
+          "fear": 0.4876,
+          "joy": 0.0759,
+          "suspense": 0.4762,
+          "boredom": 0.159
+        },
+        {
+          "second": 134,
+          "excitement": 0.2188,
+          "fear": 0.4451,
+          "joy": 0.0689,
+          "suspense": 0.4349,
+          "boredom": 0.2001
+        },
+        {
+          "second": 135,
+          "excitement": 0.2175,
+          "fear": 0.4395,
+          "joy": 0.0701,
+          "suspense": 0.4349,
+          "boredom": 0.2399
+        },
+        {
+          "second": 136,
+          "excitement": 0.2192,
+          "fear": 0.4446,
+          "joy": 0.0698,
+          "suspense": 0.4357,
+          "boredom": 0.2169
+        },
+        {
+          "second": 137,
+          "excitement": 0.2214,
+          "fear": 0.4494,
+          "joy": 0.0702,
+          "suspense": 0.44,
+          "boredom": 0.2109
+        },
+        {
+          "second": 138,
+          "excitement": 0.2354,
+          "fear": 0.4765,
+          "joy": 0.0753,
+          "suspense": 0.4682,
+          "boredom": 0.188
+        },
+        {
+          "second": 139,
+          "excitement": 0.2484,
+          "fear": 0.504,
+          "joy": 0.0789,
+          "suspense": 0.4934,
+          "boredom": 0.1476
+        },
+        {
+          "second": 140,
+          "excitement": 0.2278,
+          "fear": 0.4619,
+          "joy": 0.0726,
+          "suspense": 0.4524,
+          "boredom": 0.1856
+        },
+        {
+          "second": 141,
+          "excitement": 0.2397,
+          "fear": 0.4869,
+          "joy": 0.0758,
+          "suspense": 0.4756,
+          "boredom": 0.1508
+        },
+        {
+          "second": 142,
+          "excitement": 0.2347,
+          "fear": 0.4754,
+          "joy": 0.075,
+          "suspense": 0.4662,
+          "boredom": 0.1805
+        },
+        {
+          "second": 143,
+          "excitement": 0.2612,
+          "fear": 0.5301,
+          "joy": 0.083,
+          "suspense": 0.5187,
+          "boredom": 0.1088
+        },
+        {
+          "second": 144,
+          "excitement": 0.2984,
+          "fear": 0.6029,
+          "joy": 0.0963,
+          "suspense": 0.5956,
+          "boredom": 0.0664
+        },
+        {
+          "second": 145,
+          "excitement": 0.2587,
+          "fear": 0.5265,
+          "joy": 0.0814,
+          "suspense": 0.5124,
+          "boredom": 0.0921
+        },
+        {
+          "second": 146,
+          "excitement": 0.2668,
+          "fear": 0.5388,
+          "joy": 0.0863,
+          "suspense": 0.5335,
+          "boredom": 0.1325
+        },
+        {
+          "second": 147,
+          "excitement": 0.2737,
+          "fear": 0.5519,
+          "joy": 0.089,
+          "suspense": 0.5479,
+          "boredom": 0.1342
+        },
+        {
+          "second": 148,
+          "excitement": 0.274,
+          "fear": 0.5519,
+          "joy": 0.0894,
+          "suspense": 0.5491,
+          "boredom": 0.1463
+        },
+        {
+          "second": 149,
+          "excitement": 0.2777,
+          "fear": 0.5586,
+          "joy": 0.0908,
+          "suspense": 0.557,
+          "boredom": 0.1435
+        },
+        {
+          "second": 150,
+          "excitement": 0.2621,
+          "fear": 0.5259,
+          "joy": 0.0865,
+          "suspense": 0.5266,
+          "boredom": 0.1972
+        },
+        {
+          "second": 151,
+          "excitement": 0.2713,
+          "fear": 0.5444,
+          "joy": 0.0898,
+          "suspense": 0.546,
+          "boredom": 0.1925
+        },
+        {
+          "second": 152,
+          "excitement": 0.2801,
+          "fear": 0.564,
+          "joy": 0.0912,
+          "suspense": 0.5594,
+          "boredom": 0.1345
+        },
+        {
+          "second": 153,
+          "excitement": 0.2818,
+          "fear": 0.5689,
+          "joy": 0.0911,
+          "suspense": 0.5626,
+          "boredom": 0.1117
+        },
+        {
+          "second": 154,
+          "excitement": 0.2962,
+          "fear": 0.5991,
+          "joy": 0.0949,
+          "suspense": 0.5887,
+          "boredom": 0.0661
+        },
+        {
+          "second": 155,
+          "excitement": 0.3086,
+          "fear": 0.6239,
+          "joy": 0.0992,
+          "suspense": 0.6138,
+          "boredom": 0.0391
+        },
+        {
+          "second": 156,
+          "excitement": 0.2889,
+          "fear": 0.5819,
+          "joy": 0.0941,
+          "suspense": 0.5775,
+          "boredom": 0.1157
+        },
+        {
+          "second": 157,
+          "excitement": 0.2842,
+          "fear": 0.5721,
+          "joy": 0.0928,
+          "suspense": 0.568,
+          "boredom": 0.1341
+        },
+        {
+          "second": 158,
+          "excitement": 0.2912,
+          "fear": 0.585,
+          "joy": 0.0956,
+          "suspense": 0.5822,
+          "boredom": 0.1315
+        },
+        {
+          "second": 159,
+          "excitement": 0.2682,
+          "fear": 0.5391,
+          "joy": 0.088,
+          "suspense": 0.5359,
+          "boredom": 0.1717
+        },
+        {
+          "second": 160,
+          "excitement": 0.263,
+          "fear": 0.5294,
+          "joy": 0.0858,
+          "suspense": 0.5252,
+          "boredom": 0.1679
+        },
+        {
+          "second": 161,
+          "excitement": 0.2508,
+          "fear": 0.5045,
+          "joy": 0.082,
+          "suspense": 0.5022,
+          "boredom": 0.1944
+        },
+        {
+          "second": 162,
+          "excitement": 0.2694,
+          "fear": 0.5421,
+          "joy": 0.0881,
+          "suspense": 0.5394,
+          "boredom": 0.1697
+        },
+        {
+          "second": 163,
+          "excitement": 0.2666,
+          "fear": 0.5353,
+          "joy": 0.0878,
+          "suspense": 0.5349,
+          "boredom": 0.1935
+        },
+        {
+          "second": 164,
+          "excitement": 0.2586,
+          "fear": 0.5218,
+          "joy": 0.0838,
+          "suspense": 0.5159,
+          "boredom": 0.1662
+        },
+        {
+          "second": 165,
+          "excitement": 0.2625,
+          "fear": 0.5311,
+          "joy": 0.0842,
+          "suspense": 0.5227,
+          "boredom": 0.152
+        },
+        {
+          "second": 166,
+          "excitement": 0.2745,
+          "fear": 0.5547,
+          "joy": 0.0888,
+          "suspense": 0.5493,
+          "boredom": 0.1293
+        },
+        {
+          "second": 167,
+          "excitement": 0.2613,
+          "fear": 0.5289,
+          "joy": 0.0839,
+          "suspense": 0.522,
+          "boredom": 0.1464
+        },
+        {
+          "second": 168,
+          "excitement": 0.2473,
+          "fear": 0.5001,
+          "joy": 0.08,
+          "suspense": 0.4965,
+          "boredom": 0.1881
+        },
+        {
+          "second": 169,
+          "excitement": 0.2609,
+          "fear": 0.5281,
+          "joy": 0.0839,
+          "suspense": 0.5231,
+          "boredom": 0.1447
+        },
+        {
+          "second": 170,
+          "excitement": 0.2586,
+          "fear": 0.524,
+          "joy": 0.083,
+          "suspense": 0.5176,
+          "boredom": 0.1498
+        },
+        {
+          "second": 171,
+          "excitement": 0.2159,
+          "fear": 0.4395,
+          "joy": 0.0681,
+          "suspense": 0.4306,
+          "boredom": 0.1891
+        },
+        {
+          "second": 172,
+          "excitement": 0.2455,
+          "fear": 0.4992,
+          "joy": 0.0776,
+          "suspense": 0.4896,
+          "boredom": 0.1244
+        },
+        {
+          "second": 173,
+          "excitement": 0.2498,
+          "fear": 0.5062,
+          "joy": 0.08,
+          "suspense": 0.4998,
+          "boredom": 0.152
+        },
+        {
+          "second": 174,
+          "excitement": 0.2478,
+          "fear": 0.5022,
+          "joy": 0.0793,
+          "suspense": 0.4961,
+          "boredom": 0.1545
+        },
+        {
+          "second": 175,
+          "excitement": 0.2427,
+          "fear": 0.4884,
+          "joy": 0.0795,
+          "suspense": 0.4866,
+          "boredom": 0.2175
+        },
+        {
+          "second": 176,
+          "excitement": 0.2112,
+          "fear": 0.4262,
+          "joy": 0.0685,
+          "suspense": 0.4227,
+          "boredom": 0.2566
+        },
+        {
+          "second": 177,
+          "excitement": 0.2359,
+          "fear": 0.4744,
+          "joy": 0.0775,
+          "suspense": 0.4733,
+          "boredom": 0.2412
+        },
+        {
+          "second": 178,
+          "excitement": 0.2284,
+          "fear": 0.4586,
+          "joy": 0.0754,
+          "suspense": 0.4579,
+          "boredom": 0.2635
+        },
+        {
+          "second": 179,
+          "excitement": 0.2283,
+          "fear": 0.4579,
+          "joy": 0.0757,
+          "suspense": 0.4585,
+          "boredom": 0.2795
+        },
+        {
+          "second": 180,
+          "excitement": 0.2135,
+          "fear": 0.4293,
+          "joy": 0.0699,
+          "suspense": 0.4275,
+          "boredom": 0.2849
+        },
+        {
+          "second": 181,
+          "excitement": 0.2389,
+          "fear": 0.4804,
+          "joy": 0.0783,
+          "suspense": 0.4777,
+          "boredom": 0.2519
+        },
+        {
+          "second": 182,
+          "excitement": 0.2203,
+          "fear": 0.4417,
+          "joy": 0.0731,
+          "suspense": 0.4431,
+          "boredom": 0.3085
+        },
+        {
+          "second": 183,
+          "excitement": 0.2286,
+          "fear": 0.4578,
+          "joy": 0.076,
+          "suspense": 0.4585,
+          "boredom": 0.3087
+        },
+        {
+          "second": 184,
+          "excitement": 0.2067,
+          "fear": 0.416,
+          "joy": 0.0678,
+          "suspense": 0.4155,
+          "boredom": 0.3047
+        },
+        {
+          "second": 185,
+          "excitement": 0.1886,
+          "fear": 0.3814,
+          "joy": 0.0606,
+          "suspense": 0.3765,
+          "boredom": 0.2943
+        },
+        {
+          "second": 186,
+          "excitement": 0.1716,
+          "fear": 0.3473,
+          "joy": 0.0551,
+          "suspense": 0.3434,
+          "boredom": 0.3214
+        },
+        {
+          "second": 187,
+          "excitement": 0.2049,
+          "fear": 0.4147,
+          "joy": 0.0656,
+          "suspense": 0.4095,
+          "boredom": 0.2665
+        }
+      ]
+    }
+  ],
+  "benchmarks": [
+    {
+      "baseline_title": "Interstellar",
+      "genre": "Sci-Fi/Drama",
+      "your_score": 0.4766,
+      "baseline_score": 0.68,
+      "difference_percent": -29.9,
+      "insight": "Your trailer underperforms Interstellar by 30%. Strongest advantage: fear (+18%). Biggest gap: suspense (-27%)."
+    },
+    {
+      "baseline_title": "Oppenheimer",
+      "genre": "Drama/Thriller",
+      "your_score": 0.4766,
+      "baseline_score": 0.72,
+      "difference_percent": -33.8,
+      "insight": "Your trailer underperforms Oppenheimer by 34%. Strongest advantage: joy (+22%). Biggest gap: suspense (-30%)."
+    },
+    {
+      "baseline_title": "Inception",
+      "genre": "Sci-Fi/Thriller",
+      "your_score": 0.4766,
+      "baseline_score": 0.75,
+      "difference_percent": -36.5,
+      "insight": "Your trailer underperforms Inception by 36%. Strongest advantage: joy (+17%). Biggest gap: suspense (-34%)."
+    },
+    {
+      "baseline_title": "The Dark Knight",
+      "genre": "Action/Thriller",
+      "your_score": 0.4766,
+      "baseline_score": 0.78,
+      "difference_percent": -38.9,
+      "insight": "Your trailer underperforms The Dark Knight by 39%. Strongest advantage: joy (+27%). Biggest gap: suspense (-32%)."
+    },
+    {
+      "baseline_title": "Avengers Endgame",
+      "genre": "Action/Sci-Fi",
+      "your_score": 0.4766,
+      "baseline_score": 0.81,
+      "difference_percent": -41.2,
+      "insight": "Your trailer underperforms Avengers Endgame by 41%. Strongest advantage: fear (+13%). Biggest gap: excitement (-37%)."
+    }
+  ],
+  "pdf_url": "/reports/hokum_report.pdf"
+}
